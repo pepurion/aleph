@@ -45,15 +45,15 @@ You can use a Small Action to reduce your visibility or noise during a turn.
 If you use an Action to attack, you roll **Combat** check. On Success you roll damage. There is NO CRITICAL DAMAGE by default.
 
 ### Melee
-Standard melee attack's damage is **d(Str/10)** when unarmed. If the damage is blocked, it hurts the attacker. 
+Standard melee attack's damage is **d(Str/10)** when unarmed.
 Melee weapon adds it's damage to the damage roll.
 
 ### Ranged
-There are 3 fire modes.
+There are 3 firing modes.
 
  - Single - you shoot 1 precise shot, gain **Assist** on **Combat** check
  - Semi-auto - you shoot a couple of bullets at the opponent, default for rifles
- - Auto - you shoot a barrage in a general direction, roll **Combat** check per 5 shots up to 3 times with **[-]**
+ - Auto - you shoot a barrage in a general direction, roll **Combat** check per 4 shots up to 3 times with **[-]**
 
 Damage is rolled per projectile and is indicative of the hit spot. Reloading is 1 Action. 
 
@@ -70,12 +70,12 @@ If you are Sneaking and unnoticed, you gain **[+]** on a melee **Combat** check.
 
 ---
 ## Defending
-What you do, whenever you are being attacked.
+If you have a free Small Action, you can react to an incoming attack that you are aware of. By default you can react to a melee attack or a thrown object.
 
 ### Block
 One out of two options to react to an attack is to block it. 
 
-You roll your **Block Rating**, reducing the damage dealt by the rolled value, up to a minimum of 1 damage. 
+You roll your **Block Rating**, reducing the damage dealt by the rolled value, up to a minimum of 1 damage dealt as the result. 
 
 ### Dodge
 Second option to react to an attack is to dodge it.

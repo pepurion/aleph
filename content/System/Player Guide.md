@@ -1,6 +1,6 @@
 Guide to creating a character for players. **WIP**
 
-
+---
 
 
 
@@ -21,11 +21,11 @@ Here's an example from one of my character files:
 
 If you don't already have a place, where you keep track of these things, please use it. It would be easier for you and me to keep track of your things.
 
-
+---
 ## X. Character Info
 Everything about your character that you want to add. Age, height, backstory, favorite drink, hobby, smell, any info you acquired and whatnot.
 
-I mean... You *can* copy this there, *buuuuuutttt...*
+I mean... You *can* copy this there, *buuuuuutttt...* take only what you need...
 
 	Sex:
 	Age:
@@ -43,7 +43,7 @@ I mean... You *can* copy this there, *buuuuuutttt...*
 
 Hi~
 It is I, Pepperoni, leaving a quick message. More of a notice really.
-Aleph is not a finished system. But not because it's buggy and unbalanced (that might still be true), but because it is set to be played in an ever-expanding universe. As the story of Aleph-zero progresses, the system has to expand too with new races, talents, classes, whatever.
+Aleph is not a finished system. But not because it's buggy and unbalanced (that might still be true), but because it is set to be played in an ever-expanding universe. As the story of Aleph-zero progresses, the system has to expand too with new species, talents, classes, whatever.
 If something is unbalanced or "is shit", well that's just because it was put together by one guy that usually skips the "character build" step in games and just goes with whatever works and is fun to play.
 What I'm trying to say is... If you have an idea, suggestion, remark, opinion, then go on, tell me, don't hold back, I can take it, it's just a silly game after all, we'll figure something out.
 Ok bye

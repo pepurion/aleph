@@ -14,9 +14,13 @@ Made by DPepperoni
 ### Character
 [[Attributes]]
 [[Identity]]
-[[Upgrading]]
+[[Leveling Up]]
 [[Skills]]
 [[Talents]]
+
+---
+
+Disclaimer: I'm not responsible for harming anyone physically or psychologically through the use of long waits, nonexistent sessions or any other means. 
 
 ---
 

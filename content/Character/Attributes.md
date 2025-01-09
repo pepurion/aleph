@@ -8,7 +8,7 @@ When your HP is depleted, you gain a Wound and regain HP. If the damage dealt wa
 For each Wound gained, you are harmed based on the damage you sustained, roll on [[Wound table]]. On gaining the last one, roll Death Save. 
 Death save is a single secret DM roll **d20** on your condition, 10 and higher you will wake up eventually, 9 and lower you need help, 1 you die. The severity is determined by the DM.
 
-Second is **Sanity**. Depending on race this may vary.
+Second is **Sanity**. Depending on species this may vary.
 
 - Sanity -  psychological wellbeing
 

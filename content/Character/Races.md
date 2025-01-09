@@ -1,4 +1,2 @@
 List
 [[Earthling]]
-[[Android]]
-[[Voidborn]]

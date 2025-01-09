@@ -4,11 +4,11 @@ Every Skill represents character's abilities and knowledge in certain areas. You
 - On 2nd stage you get Bonus 15
 - On 3rd stage you get Bonus 20
 
-By using [Upgrade] you can get or upgrade a Skill. 
+By using **Upgrade** you can get or upgrade a Skill. 
 
-- To learn a new Skill you need 2 [Upgrade] for the 1st stage
-- To go from 1st to 2nd you need 3 [Upgrade] 
-- To go from 2nd to 3rd you need 4 [Upgrade]
+- To learn a new Skill you need 2 **Upgrade** for the 1st stage
+- To go from 1st to 2nd you need 3 **Upgrade**
+- To go from 2nd to 3rd you need 4 **Upgrade**
 
 ---
 

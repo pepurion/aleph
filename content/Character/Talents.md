@@ -1,4 +1,4 @@
-Unique strengths of your character. Some may know them by the name [Feats].
+Unique strengths of your character. Some may know them by the name **Feats**.
 
 ---
 

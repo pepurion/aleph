@@ -1,7 +1,7 @@
 ---
-title: Welcome to Aleph
+title: Welcome to Aleph v0.2-pre
 ---
-This is **Aleph v0.2-pre**
+Made by DPepperoni
 
 ### System
 [[Rolling]]
@@ -16,3 +16,7 @@ This is **Aleph v0.2-pre**
 [[Upgrading]]
 [[Skills]]
 [[Talents]]
+
+---
+
+PLACEHOLDER STRUCTURE, NEED UPDATE

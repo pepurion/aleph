@@ -1,6 +1,3 @@
----
-title: Welcome to Aleph
----
 System
 [[Rolling]]
 [[Encounter]]
@@ -22,3 +19,5 @@ Aleph is not a finished system. But not because it's buggy and unbalanced (that 
 If something is unbalanced or "is shit", well that's just because it was put together by one guy that usually skips the "character build" step in games and just goes with whatever works and is fun to play.
 What I'm trying to say is... If you have an idea, suggestion, remark, opinion, then go on, tell me, don't hold back, I can take it, it's just a silly game after all, we'll figure something out.
 Ok bye
+
+---

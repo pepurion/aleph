@@ -1,5 +1,7 @@
 Unique strengths of your character. Some may know them by the name **Feats**.
 
+To get a new talent you need to spend 2 **Upgrade**.
+
 ---
 
 Battle Mastery 

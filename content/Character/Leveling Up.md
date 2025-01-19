@@ -7,7 +7,7 @@ Every **Level** you gain some amount of Leveling Points - **LP** and 1 **Upgrade
 **Upgrade** is used to upgrade any other aspect of a character.
 
 - Raise Body or Mind by 5
-- Get a **Talent**
-- Get or upgrade a **Skill**
-- Upgrade Class or Species related abilities
+- Get a [[Talents|Talent]]
+- Get or upgrade a [[Skills|Skill]]
+- Upgrade [[Classes|Class]] or [[Species]] related abilities
 

@@ -1,3 +1,7 @@
+**Aleph** - game system
+**Aleph-Zero** - world
+**AlephDB** - Discord server
+
 **1MA** - Major Action / Normal Action
 **1mA** - Minor Action / Small Action
 

@@ -33,7 +33,7 @@ You may also see a value **BM**. That means you can put these points in either B
 
 ---
 ## Defense
-To reduce or negate incoming physical damage, you have **Block Rating**, **Dodge Rating** and additionally **Armor**.
+To reduce or negate incoming physical damage, you have **Block Rating**, **Dodge Rating** and potentially **Armor**.
 
 ### Block Rating
 The amount of damage you can block.

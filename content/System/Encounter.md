@@ -65,6 +65,8 @@ Weapons have an effective range.
 
 Shooting beyond a weapon's effective range adds 1 **Obstacle** to **Combat** check for each multiple of its range exceeded (e.g. Pistol 1m-10m = 0, 11m-20m = 1, 21m-30m = 2...)
 
+Additionally you can get **Assist** by having a stable position while shooting.
+
 ### Surprise Attack
 If you are Sneaking and unnoticed, you gain **[+]** on a melee **Combat** check.
 
@@ -75,12 +77,12 @@ If you have a free Small Action, you can react to an incoming attack that you ar
 ### Block
 One out of two options to react to an attack is to block it. 
 
-You roll your **Block Rating**, reducing the damage dealt by the rolled value, up to a minimum of 1 damage dealt as the result. 
+You roll your [[Attributes#Block Rating|Block Rating]], reducing the damage dealt by the rolled value, up to a minimum of 1 damage dealt as the result. 
 
 ### Dodge
 Second option to react to an attack is to dodge it.
 
-You roll your **Dodge Rating**.
+You roll your [[Attributes#Dodge Rating|Dodge Rating]].
 
 - If the roll is equal to or higher than the damage that would be dealt to your health, all damage is prevented
 - If the roll is lower, damage is fully dealt

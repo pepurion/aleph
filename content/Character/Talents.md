@@ -83,8 +83,8 @@ Sprinter
 
 Black Swordsman
 - Req. Close-combat Arms, Perception 60, Dexterity 40
-- Block ranged attacks
+- Able to block firearm ranged attacks
 
 Matrix
 - Req. Martial Arts, Perception 60, Dexterity 40
-- Dodge ranged attacks
+- Able to dodge firearm ranged attacks

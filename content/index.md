@@ -1,7 +1,6 @@
 ---
 title: Welcome to Aleph v0.2-pre
 ---
-Made by DPepperoni
 
 ---
 ### System

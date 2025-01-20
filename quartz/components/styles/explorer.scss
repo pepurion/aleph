@@ -85,7 +85,7 @@ button#explorer {
   }
 
   & ul {
-    list-style: none;
+    list-style-type: none;
     margin: 0.08rem 0;
     padding: 0;
     transition:
@@ -96,7 +96,7 @@ button#explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
-      padding-right: 8px;
+      margin-right: 24px;
     }
   }
   > #explorer-ul {

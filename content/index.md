@@ -1,26 +1,13 @@
 ---
-title: Welcome to Aleph v0.2-pre
+title: Welcome to Aleph
 ---
 
 ---
-### System
-[[Rolling]]
-[[Encounter]]
-[[Dictionary]]
-[[Player Guide]]
 
-
-### Character
-[[Attributes]]
-[[Identity]]
-[[Leveling Up]]
-[[Skills]]
-[[Talents]]
+[STAY TUNED]
 
 ---
 
 Disclaimer: I'm not responsible for harming anyone physically or psychologically through the use of long waits, nonexistent sessions or any other means. 
 
----
-
-PLACEHOLDER STRUCTURE, NEED UPDATE
+[[Version History]]

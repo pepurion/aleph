@@ -1,10 +1,10 @@
 ---
-title: Welcome to Aleph
+title: Welcome to Aleph v?
 ---
 
 ---
 
-[STAY TUNED]
+## [STAY TUNED]
 
 ---
 

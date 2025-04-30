@@ -3,14 +3,13 @@
 ---
 
 ---
-
-v0.3-pre
+### v?
 
 Current lol
 
 ---
 
-v0.2-pre
+### v0.2-pre
 
 The main system stayed mostly intact, but suffered big changes in character creating process.
 
@@ -20,7 +19,7 @@ Most changes were influenced by different TTRPG systems. You may say that at thi
 
 ---
 
-v0.1
+### v0.1
 
 The first version used during the Prologue. Based mostly on **Mothership 1e** (M1e) with some modifications mainly to character and class stats and battle systems. Here's the big stuff:
 

@@ -1,12 +1,8 @@
-**Aleph** - game system
-**Aleph-Zero** - world
+**Aleph** - world
 **AlephDB** - Discord server
 
-**1MA** - Major Action / Normal Action
-**1mA** - Minor Action / Small Action
+**Action point** - AP - action on your turn
+**Reaction point** -  RP - action outside of your turn
 
-**[+]** - Advantage
-**[-]** - Disadvantage
-**d20+** - d20 with advantage
-
-**StrProf** - Strength/10
+**Favor** - \[Помощь] - roll one d6 more
+**Disfavor** - \[Помеха] - roll one d6 less

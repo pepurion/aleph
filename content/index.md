@@ -1,10 +1,19 @@
 ---
-title: Welcome to Aleph v?
+title: Welcome to Aleph v0.3
 ---
+Based on **Utopia TTRPG**.
 
----
+Here you can find (almost) everything you need to know to play **Aleph-zero**.
 
-## [STAY TUNED]
+### About your Character
+[[Creating a Character (WIP)]]
+[[Character File]]
+[[Leveling Up]]
+
+### Gameplay
+[[Rolling Dice]]
+[[Encounter]]
+[[Dictionary]]
 
 ---
 

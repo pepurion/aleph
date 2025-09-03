@@ -3,13 +3,19 @@
 ---
 
 ---
-### v?
+## v0.3
 
-Current lol
+I decided not to make my own system and settled with an already existing one, which is **Utopia TTRPG**. One reason is that the previous iteration wasn't awful, but also wasn't good. And I don't wanna get into game design that deep, cause it's hard.
+
+The other reason is that *I have conceived an idea most ingenious*, and I want to spend time on it, instead of reinventing the wheel.
+
+This also made me think about how much needlessly complicated some systems can get without much of a reason. For example, I made armor have "durability based defense" and "passive defense". I thought that would be more immersive, but now, a year later, I think it was just gonna be annoying.
+
+Regarding the system itself, some terms from Utopia have been adapted to our common way of referring to things.
 
 ---
 
-### v0.2-pre
+## v0.2-pre
 
 The main system stayed mostly intact, but suffered big changes in character creating process.
 
@@ -19,7 +25,7 @@ Most changes were influenced by different TTRPG systems. You may say that at thi
 
 ---
 
-### v0.1
+## v0.1
 
 The first version used during the Prologue. Based mostly on **Mothership 1e** (M1e) with some modifications mainly to character and class stats and battle systems. Here's the big stuff:
 

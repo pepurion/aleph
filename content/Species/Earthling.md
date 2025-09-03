@@ -1,22 +1,18 @@
-### Description
+## Description
 Earthlings are the descendants from the lost planet "Earth". Species of baseline humanoids known for their resilience and strive for improvement. They have spread all across the galaxy, dominating and adopting species and technology from every discovered corner of the observable universe. Their culture is so wide-spread, their individual identity may vary greatly between sectors.
 
-### Characteristics
-Health = **3d4 + Body/5**
-Sanity = **3d6 + Mind/10**
+## Characteristics
+**2d4** Block Rating
+**2d12** Dodge Rating
 
-LP: 40 | Upgrade: 1
-Wounds: 2
+**4** Constitution
+**5** Endurance
+**3** Effervescence
 
-Block: 2d4 | Dodge: 1d12
+You are gifted in **2** skills of your **choice**
 
-BM: 30
-Body +20
-Mind +10
+## Talent Tree
 
-### Abilities
-Environmental Adaptation
-- You take reduced damage and suffer weaker effects from harsh environment
-
-Human Determination (1 per Long Rest)
-- Add **[+]** to any roll, do it, I dare you
+---
+#### Adaptable Defense (1/0/1)
+Each of your Resistances increase by 1

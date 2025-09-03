@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4c990137e2790d1d","x":-460,"y":-210,"width":250,"height":60,"type":"text","text":""},
+		{"id":"7caf1ef999b6010c","x":-200,"y":-240,"width":250,"height":60,"type":"text","text":"LOL"},
+		{"id":"b2b6dc4a38312b8a","x":60,"y":-210,"width":250,"height":60,"type":"text","text":""},
+		{"id":"60100511ac2ca0fd","x":-200,"y":-180,"width":250,"height":60,"type":"text","text":"LOL2"}
+	],
+	"edges":[]
+}

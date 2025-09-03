@@ -81,17 +81,14 @@ A character has Stamina and 2 types of HP.
 
 ### Surface HP
 SHP is the first HP bar. It can heal by itself while resting.
-
 Maximum **SHP** is equal to (Body * Constitution + Level)
 
 ### Deep HP
 DHP is the second (and last) HP bar. It cannot regenerate naturally and requires medical attention.
-
 Maximum **DHP** is equal to (Soul * Effervescence + Level)
 
 ### Stamina
 It is used for certain actions in combat.
-
 Maximum **Stamina** is equal to (Mind * Endurance + Level)
 
 ---
@@ -99,13 +96,3 @@ Maximum **Stamina** is equal to (Mind * Endurance + Level)
 [[Feats|Available Feats]]
 
 C'mon...
-
----
-## Resting
-To sleep and satisfy your hunger or any other need, you should stop for a bit and rest. The space around should be safe and comfortable enough for a fulfilling rest.
-
-### Short Rest
-A short halt to regain energy and fulfil your needs, be it eating, cleaning your weapon and/or changing oil. Lasts for 1-2 hours.
-
-### Long Rest
-A long stop to recover from a hard day, you may sleep, reflect on your life and/or analyze all the data you've gathered. Lasts for 6-8 hours. Fully restore SHP.

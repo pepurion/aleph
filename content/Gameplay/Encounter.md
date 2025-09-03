@@ -93,5 +93,7 @@ You may spend 3 AP and 2 Stamina to attempt to restrain a creature. You make a *
 While being grappled, the creature may spend 2 AP/RP and 2 Stamina to attempt the check **again**. The grappler looses 2 Stamina, if they oppose.
 
 ---
-## Deep Breath
+## Miscellaneous
+
+### Deep Breath
 You may spend 1 AP to **regain** 1 Stamina.

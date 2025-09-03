@@ -14,5 +14,5 @@ You are gifted in **2** skills of your **choice**
 ## Talent Tree
 
 ---
-#### Adaptable Defense (1/0/1)
+### Adaptable Defense (1/0/1)
 Each of your Resistances increase by 1

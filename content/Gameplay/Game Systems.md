@@ -12,7 +12,6 @@ Lasts for 6-8 hours. **Fully restore SHP and Stamina, and remove one Fatigue poi
 ---
 ## Conditions
 ### Unconscious
-- Is sleeping
 - Cannot take actions
 - Fail all checks other than those made to end the effect
 

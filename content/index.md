@@ -1,5 +1,5 @@
 ---
-title: Welcome to Aleph v0.3
+title: Welcome to Aleph v0.3-pre
 ---
 Based on **Utopia TTRPG**.
 

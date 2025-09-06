@@ -3,7 +3,7 @@
 ---
 
 ---
-## v0.3
+## v0.3-pre
 
 I decided not to make my own system and settled with an already existing one, which is **Utopia TTRPG**. One reason is that the previous iteration wasn't awful, but also wasn't good. And I don't wanna get into game design that deep, cause it's hard.
 

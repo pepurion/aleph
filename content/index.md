@@ -1,7 +1,7 @@
 ---
 title: Welcome to Aleph v0.3-pre
 ---
-Based on **Utopia TTRPG**.
+Powered mostly by **Utopia TTRPG**.
 
 Here you can find (almost) everything you need to know to play **Aleph-zero**.
 

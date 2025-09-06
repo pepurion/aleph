@@ -11,7 +11,7 @@ The other reason is that *I have conceived an idea most ingenious*, and I want t
 
 This also made me think about how much needlessly complicated some systems can get without much of a reason. For example, I made armor have "durability based defense" and "passive defense". I thought that would be more immersive, but now, a year later, I think it was just gonna be annoying.
 
-Regarding the system itself, some terms from Utopia have been adapted to our common way of referring to things.
+Regarding the system itself, some terms from Utopia have been adapted to our common way of referring to things, and I tweaked some things here and there.
 
 ---
 

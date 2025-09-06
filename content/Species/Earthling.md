@@ -11,7 +11,7 @@ Earthlings are the descendants from the lost planet "Earth". Species of baseline
 
 You are gifted in **2** skills of your **choice**
 
-## Talent Tree
+## Talent Tree wip
 
 ---
 ### Adaptable Defense (1/0/1)

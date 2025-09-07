@@ -43,7 +43,7 @@ You may spend **double** amount of AP or RP on the action to gain a Favor.
 ### Melee
 To make a melee attack you **do not** roll to hit. Instead, attack damage can be negated (refer to [[Encounter#Defending|Defending]]).
 
-Standard **unarmed** attack requires **2 AP**, and it's damage is **1d8+[Power]**.
+Standard **unarmed** attack requires **2 AP**, and it's damage is **(1d8+Power)**.
 
 In case of melee **weapons**, the number of AP and damage are determined by the weapon itself.
 
@@ -66,10 +66,10 @@ You can use 1 AP to **Aim** and gain **Favor** on your next ranged attack. Favor
 You may use an AP or a RP to react to an incoming attack that you are aware of.
 
 ### Block
-You roll your [[Character File#Block Rating|Block Rating]] and add Res, **reducing** the damage dealt by the result. 
+You roll your [[Character File#Block Rating|Block Rating]] and add Resistance, **reducing** the damage dealt by the result. 
 
 ### Dodge
-You roll your [[Character File#Dodge Rating|Dodge Rating]] and add Res.
+You roll your [[Character File#Dodge Rating|Dodge Rating]] and add Resistance.
 
 - If the result is equal to or higher than the damage that would be dealt to your health, all damage is **prevented**
 - If the result is lower, damage is **fully** dealt

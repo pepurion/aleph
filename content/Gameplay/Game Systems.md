@@ -57,6 +57,34 @@ While not sustaining your bodily needs for extended periods of time, you gain Fa
 6. Every hour lose Stamina equal to Fatigue
 
 ---
+## Size Categories
+All creatures and objects exist within a specific size category.
+
+### Miniscule
+Fits in a 5cm cube.
+
+### Tiny
+Fits in a 25cm cube, but not in a 5cm cube.
+
+### Small
+Fits in a 1m cube, but not in a 25cm cube.
+
+### Medium
+Fits in a 3m cube, but not in a 1m cube.
+
+### Large
+Fits in a 10cm cube, but not in a 3m cube.
+
+### Huge
+Fits in a 40m cube, but not in a 10m cube.
+
+### Massive
+Fits in a 200m cube, but not in a 40m cube.
+
+### Colossal
+Does not fit in a 200m cube.
+
+---
 ## Travel
 Creature movement
 
@@ -65,7 +93,7 @@ Creature movement
 - Air Travel - is 0 unless otherwise stated
 
 ### Carry Capacity
-Every creature has a **slot** limit based on their Strength score multiplied by their size mod. Small (x2), Medium (x5), Large (x15), etc.
+Every creature has a **slot** limit based on their Strength score multiplied by their size. Small (x2), Medium (x5), Large (x15), etc.
 
 Currency and augments do not use slots.
 
@@ -73,9 +101,12 @@ Currency and augments do not use slots.
 While carrying more weight than you are able to, you get **Fatigue** point until relieved of the additional weight. They also can only use Land Travel. You cannot physically carry more than **double** your Carry Capacity.
 
 ---
-## Dying (please don't)
+## Dying[^1]
 Upon reaching **0 DHP** a creature is considered dying and their body enters stasis.
 
 When a creature's DHP is reduced to 0, further damage will force it's current DHP into the **negatives**. Every minute in stasis the body suffers 1 damage to DHP, and when it hits it's maximum in the negatives, the body is **destroyed**.
 
 When the creature is **healed back** into positive DHP, it suffers 3 points of Fatigue and remains at 0 Stamina.
+
+[^1]: Not advised
+	

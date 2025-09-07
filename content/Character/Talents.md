@@ -4,13 +4,18 @@ Branches are separate from each other, but to get talents from higher tiers, you
 ## Core Talents
 All players have access to core talent trees.
 
-### [[Warfare]]
+### Warfare
+[[Warfare|Open tree]]
 The Warfare tree is a path toward combat and finesse in conflict. Talents from this tree are **battle oriented**, both general and specialized. It is the fine art of not only hitting things really hard, but also hitting things very quickly and in close succession.
 
-### [[Tactics]]
+### Tactics
+[[Tactics|Open tree]]
 
-### [[Innovation]]
+### Innovation
+[[Innovation|Open tree]]
 
-### [[Prowess]]
+### Prowess
+[[Prowess|Open tree]]
 
-### [[Influence]]
+### Influence
+[[Influence|Open tree]]

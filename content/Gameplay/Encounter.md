@@ -93,6 +93,17 @@ You may spend 3 AP and 2 Stamina to attempt to restrain a creature. You make a *
 While being grappled, the creature may spend 2 AP/RP and 2 Stamina to attempt the check **again**. The grappler looses 2 Stamina, if they oppose.
 
 ---
+## Scale
+To climb up an obstacle, you spend 3 AP and 4 Stamina. 
+
+ You may scale **creatures** of same size or larger. The target may oppose with Strength (same) or Agility (larger) against your **Agility** check. You get 1 Disfavor for each size category the target is larger.
+
+- Target's Attack, Block and Dodge actions require **twice** as much AP/RP, if targeted against creature scaling it.
+- The scaling creature's weight is applied to target
+
+While being scaled, the creature may spend 2 AP/RP and 2 Stamina to attempt the check **again**. The grappler looses 2 Stamina, if they oppose.
+
+---
 ## Miscellaneous
 
 ### Deep Breath

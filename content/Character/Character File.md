@@ -44,22 +44,22 @@ Number of TP required depends on sum of talent's stat values (**Body, Mind and S
 ## Stats and Skills
 You have 6 **Stats** and every stat has 2 substats (**Skills**). 
 
-- Agility - (Speed / Dexterity)
+- **Agility** - (Speed / Dexterity)
 	- Speed - your moving speed and your reflexes
 	- Dexterity - your fine motor functions and accuracy
-- Strength - (Power / Fortitude)
+- **Strength** - (Power / Fortitude)
 	- Power - your force behind your actions
 	- Fortitude - your body and gut strength
-- Intellect - (Engineering / Memory)
+- **Intellect** - (Engineering / Memory)
 	- Engineering - your operating on working systems (including human body)
 	- Memory - your memory of past
-- Will - (Resolve / Awareness)
+- **Will** - (Resolve / Awareness)
 	- Resolve - your mental fortitude
 	- Awareness - your alertness and observations
-- Display - (Portrayal / Stunt)
+- **Display** - (Portrayal / Stunt)
 	- Portrayal - your acting, intimidation and lies
 	- Stunt - your balance and positioning
-- Charm - (Appeal / Language)
+- **Charm** - (Appeal / Language)
 	- Appeal - your charisma
 	- Language - your communication and speaking comprehension 
 

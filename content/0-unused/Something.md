@@ -4,7 +4,7 @@
 
 you can call this page an Easter egg 
 
-*Horizon - to the edge, and beyond.*
+*Horizon - to the edge and beyond.*
 
 
 ## X. "Uses" Tab

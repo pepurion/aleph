@@ -4,6 +4,7 @@
 
 ---
 ## v0.3-pre
+*3rd September 2025*
 
 I decided not to make my own system and settled with an already existing one, which is **Utopia TTRPG**. One reason is that the previous iteration wasn't awful, but also wasn't good. And I don't wanna get into game design that deep, cause it's hard.
 
@@ -16,6 +17,7 @@ Regarding the system itself, some terms from Utopia have been adapted to our com
 ---
 
 ## v0.2-pre
+*9th January 2025*
 
 The main system stayed mostly intact, but suffered big changes in character creating process.
 
@@ -26,6 +28,7 @@ Most changes were influenced by different TTRPG systems. You may say that at thi
 ---
 
 ## v0.1
+*8th August 2023*
 
 The first version used during the Prologue. Based mostly on **Mothership 1e** (M1e) with some modifications mainly to character and class stats and battle systems. Here's the big stuff:
 

@@ -32,7 +32,7 @@ Amount of damage in one incoming attack that you can **fully avoid** only on suc
 
 ---
 ## Talents
-[[Talent trees|Available talent trees]]
+[[Talents|Available talents]]
 
 This is your **main** source of abilities and upgrades.
 

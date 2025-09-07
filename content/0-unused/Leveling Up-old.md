@@ -9,5 +9,5 @@ Every **Level** you gain some amount of Leveling Points - **LP** and 1 **Upgrade
 - Raise Body or Mind by 5
 - Get a [[Talents-old|Talent]]
 - Get or upgrade a [[Skills-old|Skill]]
-- Upgrade [[Classes|Class]] or [[Species]] related abilities
+- Upgrade [[Classes-old|Class]] or [[Species]] related abilities
 

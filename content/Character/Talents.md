@@ -32,3 +32,7 @@ Every Species has their own talent tree that only they have access to.
 ### Earthling
 [[Earthling|Open Species]]
 Earthlings are fluid and versatile, with no single strong characteristic. They have mostly **basic** abilities and the ability to **adapt** from other species.
+
+### Automaton
+[[Automaton|Open Species]]
+Automatons are **unique** to any other species. Their inability to naturally regain Stamina forces them to rely on items to recover energy.

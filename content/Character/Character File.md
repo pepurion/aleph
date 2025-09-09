@@ -69,7 +69,8 @@ Each stat is represented by either **Body, Mind or Soul**.
 - Mind - Intellect and Will
 - Soul - Display and Charm
 
-You spend 1 SP (Skill point) to up a **skill** value by one. Skills are limited by the value of it's connected Talent Stat's value. If you are **gifted** in a skill, it's maximum value is doubled.
+You spend 1 SP (Skill point) to up a **skill** value by one. Skills are limited by the value of it's connected Talent Stat's value. 
+If you are **gifted** in a skill, it's maximum value is doubled and it's modifier cannot be negative.
 
 **Stat's** value is based on sum of it's skills' values.
 

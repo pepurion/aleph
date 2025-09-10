@@ -3,7 +3,7 @@ title: Welcome to Aleph v0.3-pre2
 ---
 Powered mostly by **Utopia TTRPG**.
 
-Here you can find (almost) everything you need to know to play **Aleph-zero**.
+Here you can find (almost) everything you need to know to play **Aleph**.
 
 ### About your Character
 [[Creating a Character (WIP)]]
@@ -15,7 +15,6 @@ Here you can find (almost) everything you need to know to play **Aleph-zero**.
 [[Rolling Dice]]
 [[Encounter]]
 [[Game Systems]]
-[[Hacking]]
 [[Crafting]]
 
 ### Archive

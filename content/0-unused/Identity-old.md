@@ -1,6 +1,6 @@
 ## Species
 Species tells the character's origin, how they were raised and how their body works.
-[[Species]]
+Species
 
 ## Background
 Background says about the character's past, who are they and what they like.

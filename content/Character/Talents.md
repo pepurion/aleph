@@ -36,3 +36,11 @@ Earthlings are fluid and versatile, with no single strong characteristic. They h
 ### Automaton
 [[Automaton|Open Species]]
 Automatons are **unique** to any other species. Their inability to naturally regain Stamina forces them to rely on items to recover energy.
+
+### Synth
+[[Synth|Open Species]]
+They can **imitate** the appearance and basic traits of other species but are very **fragile** themselves.
+
+### Drax
+[[Drax|Open Species]]
+Draxi are **resilient** and are able to **fly**. They are excellent predators, being able to survive in harsh environment. 

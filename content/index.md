@@ -8,12 +8,17 @@ Here you can find (almost) everything you need to know to play **Aleph-zero**.
 ### About your Character
 [[Creating a Character (WIP)]]
 [[Character File]]
+[[Species]]
+[[Talents]]
 
 ### Gameplay
 [[Rolling Dice]]
 [[Encounter]]
 [[Game Systems]]
+[[Hacking]]
+[[Crafting]]
 
+### Archive
 [[Dictionary]]
 
 ---

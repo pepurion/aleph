@@ -40,10 +40,10 @@ For every turn suffocating they **lose 1 Stamina**.
 ### Stamina Overpay
 When making an action that requires more Stamina than the creature has currently, the rest of the cost is payed with **DHP**.
 
-Additionally, on 0 Stamina the creature is exhausted and falls **unconscious** until Stamina is regained or Long Rest is done.
+Additionally, on 0 Stamina the creature is exhausted and falls **unconscious** until Stamina is regained or Short Rest is done.
 
 ### Kinetic Force
-When hitting a surface after a fall/flight, the creature is dealt **1d10** damage for every **10m/s** it traveled. 
+When hitting a surface after a fall/flight, the creature is dealt **1d10** damage for every **10m/s** it traveled. The damage is dealt to DHP **directly**.
 
 ---
 ## Fatigue

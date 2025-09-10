@@ -19,7 +19,7 @@ You are considered a **Construct** and do not need to breathe, eat, drink, or sl
 
 ---
 ## Talent Tree
-They can **imitate** the appearance and basic traits of other species but are very **fragile** themselves
+They can **imitate** the appearance and basic traits of other species but are very **fragile** themselves.
 
 | Name              | Effect                                                                                                                                           | Cost                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |

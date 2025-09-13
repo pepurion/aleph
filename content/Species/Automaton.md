@@ -21,12 +21,12 @@ You **cannot** take the **Deep Breath** action. You may spend 6 AP to convert or
 ## Talent Tree
 Automatons are **unique** to any other species. Their inability to naturally regain Stamina forces them to rely on items to recover energy.
 
-| Name                    | Effect                                                                                   | Cost                     |
-| ----------------------- | ---------------------------------------------------------------------------------------- | ------------------------ |
-| **Weak Absorption**     | You may spend 1 AP to consume a Common or rarer Power Component to regain 3 Stamina.     | 1 Body / 0 Mind / 0 Soul |
-| **Active Absorption**   | You may spend 1 AP to consume an Uncommon or rarer Power Component to regain 6 Stamina.  | 1 Body / 0 Mind / 1 Soul |
-| **Strong Absorption**   | You may spend 1 AP to consume a Rare or rarer Power Component to regain 12 Stamina.      | 1 Body / 0 Mind / 1 Soul |
-| **Absolute Absorption** | You may spend 1 AP to consume a Legendary or rarer Power Component to regain 24 Stamina. | 1 Body / 0 Mind / 2 Soul |
+| Name                    | Effect                                                                                  | Cost                     |
+| ----------------------- | --------------------------------------------------------------------------------------- | ------------------------ |
+| **Weak Absorption**     | You may spend 1 AP to consume a Common or rarer Power Component to regain 3 Stamina.    | 1 Body / 0 Mind / 0 Soul |
+| **Active Absorption**   | You may spend 1 AP to consume an Enhanced or rarer Power Component to regain 6 Stamina. | 1 Body / 0 Mind / 1 Soul |
+| **Strong Absorption**   | You may spend 1 AP to consume a Advanced or rarer Power Component to regain 12 Stamina. | 1 Body / 0 Mind / 1 Soul |
+| **Absolute Absorption** | You may spend 1 AP to consume a Elite or rarer Power Component to regain 24 Stamina.    | 1 Body / 0 Mind / 2 Soul |
 
 --- 
 

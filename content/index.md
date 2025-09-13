@@ -19,6 +19,7 @@ Here you can find (almost) everything you need to know to play **Aleph**.
 
 ### Archive
 [[Dictionary]]
+[[Mission Log]]
 
 ---
 

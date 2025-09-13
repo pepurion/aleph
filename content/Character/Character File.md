@@ -1,4 +1,4 @@
-Descriptions of all important attributes within your character sheet/file, in order of operations required upon creating a character.
+Descriptions of all important attributes within your character file, in order of appearance during character creation.
 
 ---
 ## Level

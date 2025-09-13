@@ -3,10 +3,22 @@
 ---
 
 ---
+## v0.3-pre3
+*13th September 2025*
+
+The first actual downtime activity
+
+- Added [[Crafting]]
+- Added [[Mission Log]]
+- Added some species
+- Adjusted wording clarity in Character File
+- Removed unused folder (externally)
+
+---
 ## v0.3-pre2
 *9th September 2025*
 
-fucking TREEEEESSSS
+fucking [[Talents|TREEEEESSSS]]
 
 ---
 ## v0.3-pre

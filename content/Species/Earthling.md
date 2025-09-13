@@ -26,12 +26,12 @@ Earthlings are fluid and versatile, with no single strong characteristic. They h
 
 --- 
 
-| Name           | Effect                                                                                                            | Cost                     |
-| -------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| **Inventive**  | When crafting an item other than a component, you require 1 less material component of your choice, minimum of 1. | 0 Body / 1 Mind / 0 Soul |
-| **Determined** | When you make a check, you may spend 6 Stamina to reroll a 1 once.                                                | 0 Body / 1 Mind / 1 Soul |
-| **Prodigy**    | Choose a Skill. You become gifted in it.                                                                          | 0 Body / 1 Mind / 1 Soul |
-| **Expertise**  | Whenever you make a check using a Skill that you are gifted in, you may spend 5 Stamina to gain a Favor once.     | 0 Body / 1 Mind / 2 Soul |
+| Name          | Effect                                                                                                            | Cost                     |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| **Inventive** | When crafting an item other than a component, you require 1 less material component of your choice, minimum of 1. | 0 Body / 1 Mind / 0 Soul |
+| **Creative**  | When you spend Stamina, you spend 1 less, minimum of 1.                                                           | 0 Body / 1 Mind / 1 Soul |
+| **Prodigy**   | Choose a Skill. You become gifted in it.                                                                          | 0 Body / 1 Mind / 1 Soul |
+| **Expertise** | Whenever you make a check using a Skill that you are gifted in, you may spend 5 Stamina to gain a Favor once.     | 0 Body / 1 Mind / 2 Soul |
 
 ---
 

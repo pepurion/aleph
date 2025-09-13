@@ -66,10 +66,10 @@ You can use 1 AP to **Aim** and gain **Favor** on your next ranged attack. Favor
 You may use an AP or a RP to react to an incoming attack that you are aware of.
 
 ### Block
-You roll your [[Character File#Block Rating|Block Rating]] and add Resistance, **reducing** the damage dealt by the result. 
+You roll your [[Character Data#Block Rating|Block Rating]] and add Resistance, **reducing** the damage dealt by the result. 
 
 ### Dodge
-You roll your [[Character File#Dodge Rating|Dodge Rating]] and add Resistance.
+You roll your [[Character Data#Dodge Rating|Dodge Rating]] and add Resistance.
 
 - If the result is equal to or higher than the damage that would be dealt to your health, all damage is **prevented**
 - If the result is lower, damage is **fully** dealt
@@ -108,3 +108,6 @@ While being scaled, the creature may spend 2 AP/RP and 2 Stamina to attempt the 
 
 ### Deep Breath
 You may spend 1 AP to **regain** 1 Stamina.
+
+### Stand Up
+You stand up using 1 AP.

@@ -1,5 +1,5 @@
 ## Description
-Synths are a rare specimen of humanoid constructs, designed to imitate other species with unsettling precision. Created by an unknown source, they genuinely believe themselves to be the beings they copy, even if with some mechanical augments. Their numbers are extremely limited, since their free existence is forbidden by Galactic Law. The ones who remain are likely to live as fugitives, for any identity scanner can expose their true nature.
+Synths are a rare specimen of humanoid constructs, designed to imitate other species with unsettling precision. Created by an unknown source, they genuinely believe themselves to be the beings they copy, even if with some mechanical augments. Their numbers are extremely limited, since their free existence is forbidden by Galactic Law.
 
 ---
 ## Characteristics

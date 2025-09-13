@@ -1,15 +1,16 @@
 ---
-title: Welcome to Aleph v0.3-pre3
+title: Welcome to Aleph v0.3-pre4
 ---
 Powered mostly by **Utopia TTRPG**.
 
 Here you can find (almost) everything you need to know to play **Aleph**.
 
 ### About your Character
-[[Creating a Character (WIP)]]
-[[Character File]]
+[[Creating a Character]]
+[[Character Data]]
 [[Species]]
 [[Talents]]
+[[Feats]]
 
 ### Gameplay
 [[Rolling Dice]]

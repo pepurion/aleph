@@ -1,5 +1,5 @@
 ## Description
-A humanoid reptilian species, Draxi are distinguished by their resilience and natural strength. Their origin takes place in a magmatic world, ruled by mighty dragon-like creatures. They are often viewed with respect or caution by others, regarding them as warriors or guardians. Their kin values honor, endurance and the power within oneself.
+A humanoid reptilian species, Draxi are distinguished by their resilience and natural strength. Their origin takes place in a world, ruled by mighty dragon-like creatures. They are often viewed with respect or caution by others, regarding them as warriors or guardians. Their kin values honor, endurance and the power within oneself.
 
 ---
 ## Characteristics

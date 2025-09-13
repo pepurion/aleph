@@ -96,4 +96,4 @@ Maximum **Stamina** is equal to (Mind * Endurance + Level)
 ## Feats
 [[Feats|Available Feats]]
 
-C'mon...
+These are cost-free expertise that offer **supplementary** abilities. Often these are passive, but there are active ones. Many Feats can have requirements you must meet in order to take them.

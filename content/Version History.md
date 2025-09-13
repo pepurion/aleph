@@ -3,6 +3,19 @@
 ---
 
 ---
+## v0.3-pre4
+*14th September 2025*
+
+I think it's playable
+
+- Added [[Feats]]
+- Reworked [[Species]] page
+- Touched on [[Creating a Character]]
+- Minor adjustments in formatting
+
+No idea why I'm making these detailed patch notes lol, it just feels right
+
+---
 ## v0.3-pre3
 *13th September 2025*
 
@@ -10,8 +23,8 @@ The first actual downtime activity
 
 - Added [[Crafting]]
 - Added [[Mission Log]]
-- Added some species
-- Adjusted wording clarity in Character File
+- Added some [[Species]]
+- Adjusted wording clarity in [[Character Data]]
 - Removed unused folder (externally)
 - Reorganized main page
 

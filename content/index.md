@@ -1,5 +1,5 @@
 ---
-title: Welcome to Aleph v0.3-pre2
+title: Welcome to Aleph v0.3-pre3
 ---
 Powered mostly by **Utopia TTRPG**.
 

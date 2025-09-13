@@ -14,9 +14,12 @@ Here you can find (almost) everything you need to know to play **Aleph**.
 ### Gameplay
 [[Rolling Dice]]
 [[Encounter]]
-[[Game Systems]]
+[[Miscellaneous]]
+
+### Special Systems
 [[Crafting]]
 
+---
 ### Archive
 [[Dictionary]]
 [[Mission Log]]

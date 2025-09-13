@@ -122,6 +122,8 @@ Items have multiple categories you choose to craft. Every item has it's own spec
 	- Consumables
 	- Gadgets
 
-When crafting an item, you may choose features it will have and the DM (me) will tailor it based on your choice (I don't want to give you the full power, yet). The rarity of an item depends on what rarity components were used in crafting. Higher rarity components can be used in place of lower ones, but not otherwise.
+When crafting an item, you may choose features it will have and the DM (me) will tailor it based on your choice (I don't want to give you the full power, yet). 
+
+The more complex and extensive item's design and functionality, the more components it requires to craft it. Rarity of an item depends on what rarity components were used in crafting. Higher rarity components can be used in place of lower ones, but not otherwise.
 
 **Gadgets** are special. They can have virtually any functionality. This is the "etc." of the categories.

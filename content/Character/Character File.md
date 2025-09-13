@@ -78,7 +78,7 @@ Roll **modifiers** are calculated as (*score - 4*) for both.
 
 ---
 ## Health and Stamina
-A character has Stamina and 2 types of HP.
+As active resources, a character has Stamina and 2 types of HP.
 
 ### Surface HP
 SHP is the first HP bar. It can heal by itself while resting.

@@ -13,6 +13,7 @@ The first actual downtime activity
 - Added some species
 - Adjusted wording clarity in Character File
 - Removed unused folder (externally)
+- Reorganized main page
 
 ---
 ## v0.3-pre2

@@ -30,12 +30,12 @@ They can **imitate** the appearance and basic traits of other species but are ve
 
 --- 
 
-| Name                 | Effect                                                                                                                                                             | Cost                     |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
-| **RAM Buffer**       | Your Psyche Resistance increases by 4.                                                                                                                             | 1 Body / 0 Mind / 1 Soul |
-| **Self Repair**      | You may spend 6 AP to make an Engineering check. If you roll higher than your missing DHP, you regain 2d4 DHP, otherwise you suffer 3 damage ignoring Resistances. | 0 Body / 2 Mind / 1 Soul |
-| **Mechanical Medic** | When you use **Self Repair**, you may consume a Common or higher material component to gain Favor in the check.                                                    | 0 Body / 1 Mind / 2 Soul |
-| **Thorough**         | On successful **Self Repair**, you regain 2d8 DHP instead.                                                                                                         | 1 Body / 1 Mind / 1 Soul |
+| Name                 | Effect                                                                                                                                                        | Cost                     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| **RAM Buffer**       | Your Psyche Resistance increases by 4.                                                                                                                        | 1 Body / 0 Mind / 1 Soul |
+| **Self Repair**      | You may spend 6 AP to make a Control check. If you roll higher than your missing DHP, you regain 2d4 DHP, otherwise you suffer 3 damage ignoring Resistances. | 0 Body / 2 Mind / 1 Soul |
+| **Mechanical Medic** | When you use **Self Repair**, you may consume a Common or higher material component to gain Favor in the check.                                               | 0 Body / 1 Mind / 2 Soul |
+| **Thorough**         | On successful **Self Repair**, you regain 2d8 DHP instead.                                                                                                    | 1 Body / 1 Mind / 1 Soul |
 
 ---
 

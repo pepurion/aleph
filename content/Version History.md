@@ -4,13 +4,15 @@
 
 ---
 ## v0.3-pre4
-*14th September 2025*
+*15th September 2025*
 
 I think it's playable
 
 - Added [[Feats]]
 - Reworked [[Species]] page
 - Touched on [[Creating a Character]]
+	- Added a link to char.txt, maybe we'll upgrade someday
+- Renamed some stuff
 - Minor adjustments in formatting
 
 No idea why I'm making these detailed patch notes lol, it just feels right

@@ -93,7 +93,7 @@ Creature movement
 - Air Travel - is 0 unless otherwise stated
 
 ### Carry Capacity
-Every creature has a **slot** limit based on their Strength score multiplied by their size. Small (x2), Medium (x5), Large (x15), etc.
+Every creature has a **slot** limit based on their **Strength** score multiplied by their size. Small (x2), Medium (x5), Large (x15), etc.
 
 Currency and augments do not use slots.
 
@@ -101,9 +101,9 @@ Currency and augments do not use slots.
 While carrying more weight than you are able to, you get **Fatigue** point until relieved of the additional weight. They also can only use Land Travel. You cannot physically carry more than **double** your Carry Capacity.
 
 ---
-## Dying (Not Advised)
+## Dying *(Not Advised)*
 Upon reaching **0 DHP** a creature is considered dying and their body enters stasis. They also roll on a [[Wound table]].
 
-When a creature's DHP is reduced to 0, further damage will force it's current DHP into the **negatives**. Every minute in stasis the body suffers 1 damage to DHP, and when it hits it's maximum in the negatives, the body is **destroyed**.
+When a creature's DHP is reduced to 0, further damage will force it's current DHP into the **negatives**. Every minute in stasis the body suffers 1 damage to DHP, and when it hits it's maximum in the negatives, the body is **destroyed** and the creature is **dead**.
 
 When the creature is **healed back** into positive DHP, it suffers 3 points of Fatigue and remains at 0 Stamina.

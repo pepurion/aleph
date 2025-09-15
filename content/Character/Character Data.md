@@ -2,7 +2,7 @@ Descriptions of all important attributes within your character file, in order of
 
 ---
 ## Level
-Leveling is **unlimited** (technically). Experience required to get the next level is equal to (current level x 100).
+Leveling is **unlimited** (technically). Experience required to get the next level is equal to (*current level * 100*).
 
 Every level you get 1 **SP** (Skill point) and 1 **TP** (Talent point).
 Every 10th level you get a **Feat**.
@@ -44,22 +44,22 @@ Number of TP required depends on sum of Talent Stat's values (**Body, Mind and S
 ## Stats and Skills
 You have 6 **Stats** and every stat has 2 substats (**Skills**). 
 
-- **Agility** - (Speed / Dexterity)
+- **Agility**
 	- Speed - your moving speed and your reflexes
 	- Dexterity - your fine motor functions and accuracy
-- **Strength** - (Power / Fortitude)
+- **Strength**
 	- Power - your force behind your actions
 	- Fortitude - your body and gut strength
-- **Intellect** - (Engineering / Memory)
-	- Engineering - your operating on working systems (including human body)
+- **Intellect**
+	- Control - your operating on working systems (including human body)
 	- Memory - your memory of past
-- **Will** - (Resolve / Awareness)
+- **Will**
 	- Resolve - your mental fortitude
 	- Awareness - your alertness and observations
-- **Display** - (Portrayal / Stunt)
+- **Display**
 	- Portrayal - your acting, intimidation and lies
 	- Stunt - your balance and positioning
-- **Charm** - (Appeal / Language)
+- **Charm**
 	- Appeal - your charisma
 	- Language - your communication and speaking comprehension 
 
@@ -82,15 +82,15 @@ As active resources, a character has Stamina and 2 types of HP.
 
 ### Surface HP
 SHP is the first HP bar. It can heal by itself while resting.
-Maximum **SHP** is equal to (Body * Constitution + Level)
+Maximum **SHP** is equal to (*Body * Constitution + Level*)
 
 ### Deep HP
 DHP is the second (and last) HP bar. It cannot regenerate naturally and requires medical attention.
-Maximum **DHP** is equal to (Soul * Effervescence + Level)
+Maximum **DHP** is equal to (*Soul * Effervescence + Level*)
 
 ### Stamina
 It is used for certain actions in combat.
-Maximum **Stamina** is equal to (Mind * Endurance + Level)
+Maximum **Stamina** is equal to (*Mind * Endurance + Level*)
 
 ---
 ## Feats

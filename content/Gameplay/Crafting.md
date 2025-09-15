@@ -37,20 +37,20 @@ Components may be crafted, harvested or foraged.
 #### Crafting
 Material components can generally be crafted by combining lesser materials into more powerful alloy or composite.
 
-When crafting a component, an Engineering check is made. Upon fail, all components are destroyed. Crude materials cannot be used.
+When crafting a component, a Control check is made. Upon fail, all components are destroyed. Crude materials cannot be used.
 
 - **Enhanced** Material
 	- 2 Common Material
-	- Diff 12 Engineering check
+	- Diff 12 Control check
 - **Advanced** Material
 	- 2 Enhanced Material
-	- Diff 18 Engineering check
+	- Diff 18 Control check
 - **Elite** Material
 	- 2 Advanced Material
-	- Diff 24 Engineering check
+	- Diff 24 Control check
 - **Prime** Material
 	- 2 Elite Material
-	- Diff 30 Engineering check
+	- Diff 30 Control check
 
 ### Refinement Components
 **RC** are small stuff that makes an item lighter, smaller or more efficient. This might be precious metals, alchemical substrates or even nanotechnology.
@@ -58,20 +58,20 @@ When crafting a component, an Engineering check is made. Upon fail, all componen
 #### Crafting
 Refinement components are created by engineering material components artificially.
 
-When crafting a component, an Engineering check is made. Upon fail, all components are destroyed. Crude materials cannot be used.
+When crafting a component, a Control check is made. Upon fail, all components are destroyed. Crude materials cannot be used.
 
 - **Enhanced** Refinement
 	- 1 Common Material, 1 Enhanced Material
-	- Diff 14 Engineering check
+	- Diff 14 Control check
 - **Advanced** Refinement
 	- 1 Enhanced Material, 1 Advanced Material
-	- Diff 20 Engineering check
+	- Diff 20 Control check
 - **Elite** Refinement
 	- 1 Advanced Material, 1 Elite Material
-	- Diff 26 Engineering check
+	- Diff 26 Control check
 - **Prime** Refinement
 	- 1 Elite Material, 1 Prime Material
-	- Diff 32 Engineering check
+	- Diff 32 Control check
 
 ### Power Components
 **PC** are the rarest form of component and are not seen in many items, especially in more common ones. They produce or store usable energy to power larger systems. This might be bio- or liquid fuel, power cells, coils, or combustion chambers.
@@ -79,23 +79,23 @@ When crafting a component, an Engineering check is made. Upon fail, all componen
 #### Crafting
 Power components are manufactured using other components of the same rarity.
 
-When crafting a component, an Engineering check is made. Upon fail, all components are destroyed. Crude materials cannot be used.
+When crafting a component, a Control check is made. Upon fail, all components are destroyed. Crude materials cannot be used.
 
 - **Common** Power
 	- 1 Common Material, 1 Common Refinement
-	- Diff 11 Engineering check
+	- Diff 11 Control check
 - **Enhanced** Power
 	- 1 Enhanced Material, 1 Enhanced Refinement
-	- Diff 17 Engineering check
+	- Diff 17 Control check
 - **Advanced** Power
 	- 1 Advanced Material, 1 Advanced Refinement
-	- Diff 23 Engineering check
+	- Diff 23 Control check
 - **Elite** Power
 	- 1 Elite Material, 1 Elite Refinement
-	- Diff 29 Engineering check
+	- Diff 29 Control check
 - **Prime** Power
 	- 1 Prime Material, 1 Prime Refinement
-	- Diff 35 Engineering check
+	- Diff 35 Control check
 
 ### Foraging
 This is the act of spending a long period of time searching for something specific. The searches are thorough and include looking above and beneath the surface when available.

@@ -1,6 +1,7 @@
-Feats are are cost-free expertise that offer supplementary abilities. Often these are passive, but there are active ones. Many Feats can have requirements you must meet in order to take them.
+Feats are expertise that offer supplementary abilities. Often these are passive, but there are active ones. Many Feats can have requirements you must meet in order to take them.
 
-### General Feats
+---
+## General Feats
 These are modest, offering abilities with minimal requirements.
 
 | Name                      | Prerequisites                             | Abilities                                                                                                                                                                                                      |
@@ -21,7 +22,8 @@ These are modest, offering abilities with minimal requirements.
 | **Advanced Construction** | Have [[Innovation\|Craftsman]]            | When you attack with a weapon you crafted, your modifier on damage is doubled.                                                                                                                                 |
 | **Lo-fi Crafter**         | Have [[Innovation\|Maker]]                | You regain all SHP and Stamina after crafting an item of Common or higher rarity. You may do so once per Long Rest.                                                                                            |
 
-### Species Feats
+---
+## Species Feats
 These equate to a character growing and manifesting their species' gifts. Each of these are specific to a certain species.
 
 | Name                 | Prerequisites       | Abilities                                                                            |
@@ -31,13 +33,14 @@ These equate to a character growing and manifesting their species' gifts. Each o
 | **Perfect Facade**   | Be a [[Synth]]      | You may spend 4 Stamina to gain a Favor on Display and Charm or their Skills.        |
 | **Resistant Scales** | Be a [[Drax]]       | When receiving damage, you may reduce the damage by spending 2 Stamina per 1 damage. |
 
-### Ultimate Feats
+---
+## Ultimate Feats
 These are the most powerful Feats a character may have. But on the other hand, they have the highest requirements of any other one, each needing mastery of a single Talent tree.
 
 | Name            | Prerequisites                             | Abilities                                                                                                                                                        |
 | --------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Conqueror**   | Have each talent in [[Warfare]] tree      | On your turns, you have 9 AP rather than 6.                                                                                                                      |
 | **Champion**    | Have each talent in [[Tactics]] tree      | On other creature's turns, you have 3 RP rather than 2.                                                                                                          |
-| **Predisposed** | Have each talent in [[Innovation]] tree   | You may spend 6 AP to craft an item or component, of up to Enhanced rarity, that you are able to.                                                                |
+| **Predisposed** | Have each talent in [[Innovation]] tree   | You may spend 6 AP to craft an item or component, of up to Enhanced rarity.                                                                                      |
 | **Faesong**     | Have each talent in [[Influence]] tree    | Whenever you regain DHP, you may choose any number of creatures any number within 10 meters that can understand you. Each of them regains similar amount of DHP. |
-| **Empirical**   | Have each talent in [[Prowess]] tree once | You can distribute 6 SP and 4 Resistance points however you want. Also you increase either Constitution, Endurance, or Effervescence by 1.                       |
+| **Empirical**   | Have each talent in [[Prowess]] tree once | You can distribute 6 SP and 6 Resistance points however you want. Also you increase either Constitution, Endurance, or Effervescence by 1.                       |

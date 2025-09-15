@@ -30,12 +30,12 @@ Automatons are **unique** to any other species. Their inability to naturally reg
 
 --- 
 
-| Name                 | Effect                                                                                                                                                             | Cost                     |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
-| **Thermal Barrier**  | Your Heat and Cold Resistances each increase by 2.                                                                                                                 | 2 Body / 0 Mind / 0 Soul |
-| **Self Repair**      | You may spend 6 AP to make an Engineering check. If you roll higher than your missing DHP, you regain 2d4 DHP, otherwise you suffer 3 damage ignoring Resistances. | 1 Body / 2 Mind / 0 Soul |
-| **Mechanical Medic** | When you use **Self Repair**, you may consume a Common or higher material component to gain Favor in the check.                                                    | 2 Body / 1 Mind / 0 Soul |
-| **Thorough**         | On successful **Self Repair**, you regain 2d8 DHP instead.                                                                                                         | 1 Body / 1 Mind / 1 Soul |
+| Name                 | Effect                                                                                                                                                        | Cost                     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| **Thermal Barrier**  | Your Heat and Cold Resistances each increase by 2.                                                                                                            | 2 Body / 0 Mind / 0 Soul |
+| **Self Repair**      | You may spend 6 AP to make a Control check. If you roll higher than your missing DHP, you regain 2d4 DHP, otherwise you suffer 3 damage ignoring Resistances. | 1 Body / 2 Mind / 0 Soul |
+| **Mechanical Medic** | When you use **Self Repair**, you may consume a Common or higher material component to gain Favor in the check.                                               | 2 Body / 1 Mind / 0 Soul |
+| **Thorough**         | On successful **Self Repair**, you regain 2d8 DHP instead.                                                                                                    | 1 Body / 1 Mind / 1 Soul |
 
 ---
 

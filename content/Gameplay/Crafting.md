@@ -25,7 +25,7 @@ Different rarities require varying amount of time to craft.
 
 ---
 ## Components
-Components are elements required to craft any item. They come in 3 general categories - **Material**, **Refinement** and **Power** components. Different varieties of items will require different amount of each.
+Components are elements required to craft any item. They come in 3 general categories - **Material**, **Refinement** and **Power** components. Different varieties of items will require different amount of each. There are also **other** varieties of components, not used id direct crafting.
 
 Depending on the nature of components, they can be used in certain fields of crafting, you cannot build a bandage out of solid steel. Most of components are generic and do not posses any effects by themselves, but some may.
 

@@ -1,5 +1,5 @@
 ## Piloting
-Piloting requires [[Starfaring|Steerer]] talent and it's own checks. You make a **Control check** whenever you pilot a spacecraft. Without the required talent all piloting checks are made with 2 Disfavors.
+Piloting requires [[Starfaring|Steerer]] talent and it's own checks. You make a **Control check** whenever you maneuver a spacecraft. Without the required talent all piloting checks are made with 2 Disfavors.
 
 ---
 ## Spacecraft
@@ -69,7 +69,7 @@ For a successful jump, the path for it should first be **plotted** with an Analy
 
 ---
 ## Damage and Repairs
-Damage to a ship falls into two categories - **hull damage** and **critical hits**. Repairing the damage requires knowledge of certain talents in the [[Innovation]] tree.
+Damage to a ship falls into two categories - **Hull damage** and **critical hits**. Repairing the damage requires knowledge of certain talents in the [[Innovation]] tree.
 
 ### Hull Damage
 Hull is the health bar of the ship. Repairing Hull damage requires **Craftsman** talent. Each lost Hull point can be replaced by spending an hour and a Ship component.

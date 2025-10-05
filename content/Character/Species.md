@@ -32,3 +32,7 @@ Synths are a rare specimen of humanoid constructs, designed to imitate other spe
 *Couldn't find a better pic*
 
 A humanoid reptilian species, Draxi are distinguished by their resilience and natural strength. Their origin takes place in a world, ruled by mighty dragon-like creatures. They are often viewed with respect or caution by others, regarding them as warriors or guardians. Their kin values honor and power within oneself.
+
+---
+## Custom Species
+Although this is a list of available ready-made species at the moment, you can ask me to create a shiny new one. You can also assist in creating it, since I'm done with it after 2 custom ones already lol. That is one way of expanding this list.

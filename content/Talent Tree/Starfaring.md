@@ -1,14 +1,14 @@
 The Starfaring tree encompasses all you need for comfortable and safe **space travel**. Whether **inside** or **outside** a vessel, it will assist in your coordination and survival in the environments of outer space.
 
-*\*Note: ship combat is not fleshed out yet, this tree may be changed
+*\*Note: ship combat is not fleshed out yet, this tree may be changed*
 
 ---
 
-| Name                          | Effect                                                                                                 | Cost                     |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------ |
-| **Zero-G Acclimation**        | Effects of [[Miscellaneous#Different Gravity\|Different Gravity]] do not apply to you in Zero Gravity. | 2 Body / 0 Mind / 0 Soul |
-| **Oriented**                  | You gain a Favor on Agility checks made to stop uncontrollable movement.                               | 3 Body / 0 Mind / 1 Soul |
-| **Omnidirectional Combatant** | When you attack in Zero Gravity, you can spend 12 Stamina to ignore recoil.                            | 3 Body / 3 Mind / 0 Soul |
+| Name                   | Effect                                                                                                 | Cost                     |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------ |
+| **Zero-G Acclimation** | Effects of [[Miscellaneous#Different Gravity\|Different Gravity]] do not apply to you in Zero Gravity. | 2 Body / 0 Mind / 0 Soul |
+| **Oriented**           | You gain a Favor on Agility checks made to stop uncontrollable movement.                               | 3 Body / 0 Mind / 1 Soul |
+| **Omnidirectional**    | When you attack in Zero Gravity, you can spend 12 Stamina to ignore recoil.                            | 3 Body / 3 Mind / 0 Soul |
 
 ---
 
@@ -24,5 +24,5 @@ The Starfaring tree encompasses all you need for comfortable and safe **space tr
 | Name         | Effect                                                                                                | Cost                     |
 | ------------ | ----------------------------------------------------------------------------------------------------- | ------------------------ |
 | **Steerer**  | You can operate and pilot a spacecraft.                                                               | 0 Body / 2 Mind / 0 Soul |
-| **Helmsman** | You gain a Favor on checks made to pilot or maneuver a spacecraft.                                    | 0 Body / 3 Mind / 1 Soul |
-| **Scooper**  | When salvaging scrap or a derelict craft in outer space, or gathering hydrogen, the yield is doubled. | 0 Body / 5 Mind / 0 Soul |
+| **Scooper**  | When salvaging scrap or a derelict craft in outer space, or gathering hydrogen, the yield is doubled. | 0 Body / 3 Mind / 0 Soul |
+| **Helmsman** | You gain a Favor on checks made to pilot or maneuver a spacecraft.                                    | 0 Body / 4 Mind / 1 Soul |

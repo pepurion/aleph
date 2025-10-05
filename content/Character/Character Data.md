@@ -28,7 +28,7 @@ Measured in one or more **d12**'s.
 Amount of damage in one incoming attack that you can **fully avoid** only on successful roll.
 
 ### Resistances
-5 types of Resistances: **Physical, Energy, Heat, Cold and Psyche**. This is your passive reduction to these types of damage whenever you suffer one. 
+5 types of Resistances: **Physical, Energy, Heat, Cold and Psyche**. This is your passive reduction to these types of damage whenever you suffer one. It is mainly affected by your armor.
 
 ---
 ## Talents
@@ -52,16 +52,16 @@ You have 6 **Stats** and every stat has 2 substats (**Skills**).
 	- Fortitude - your body and gut strength
 - **Intellect**
 	- Control - your operating on working systems (including human body)
-	- Memory - your memory of past
+	- Analysis - your logic, deduction and memory
 - **Will**
 	- Resolve - your mental fortitude
-	- Awareness - your alertness and observations
+	- Perception - your alertness and observations
 - **Display**
 	- Portrayal - your acting, intimidation and lies
-	- Stunt - your balance and positioning
+	- Poise - your balance and positioning
 - **Charm**
-	- Appeal - your charisma
-	- Language - your communication and speaking comprehension 
+	- Appeal - your charisma and likability
+	- Speech - your expression and speaking comprehension 
 
 Each stat is represented by either **Body, Mind or Soul**.
 

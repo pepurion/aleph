@@ -7,7 +7,7 @@ Social conducts and misconducts can both be utilized using the Influence tree. A
 | **Impersonate** | You gain 2 Favors on checks made to disguise yourself or to keep your identity unknown.                                                                                               | 1 Body / 0 Mind / 1 Soul |
 | **Mimic**       | You gain 2 Favors on checks made to mimic the actions of another creature.                                                                                                            | 1 Body / 0 Mind / 2 Soul |
 | **Sleuth**      | You gain 2 Favors on checks made to spot if someone is lying or hides information from you.                                                                                           | 2 Body / 0 Mind / 2 Soul |
-| **Executant**   | Before you roll Portrayal, Stunt, or Display, you may choose to treat each 5 rolled as a 6, when calculating critical success. But each 2 rolled counts as a 1 for critical failures. | 2 Body / 0 Mind / 3 Soul |
+| **Executant**   | Before you roll Portrayal, Poise, or Display, you may choose to treat each 5 rolled as a 6, when calculating critical success. But each 2 rolled counts as a 1 for critical failures. | 2 Body / 0 Mind / 3 Soul |
 
 ---
 
@@ -20,9 +20,9 @@ Social conducts and misconducts can both be utilized using the Influence tree. A
 
 ---
 
-| Name          | Effect                                                                                                                                                                             | Cost                     |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| **Linguist**  | You gain a Favor on checks made to gain information from languages you don't understand.                                                                                           | 0 Body / 1 Mind / 1 Soul |
-| **Fluent**    | You learn an additional language of your choice.                                                                                                                                   | 0 Body / 1 Mind / 2 Soul |
-| **Broadcast** | When you communicate, you may give 2 Favors to creatures trying to understand you, regardless of language.                                                                         | 0 Body / 2 Mind / 2 Soul |
-| **Polyglot**  | Before you roll Appeal, Language, or Charm, you may choose to treat each 5 rolled as a 6, when calculating critical success. But each 2 rolled counts as a 1 for critical failures | 0 Body / 2 Mind / 3 Soul |
+| Name          | Effect                                                                                                                                                                           | Cost                     |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| **Linguist**  | You gain a Favor on checks made to gain information from languages you don't understand.                                                                                         | 0 Body / 1 Mind / 1 Soul |
+| **Fluent**    | You learn an additional language of your choice.                                                                                                                                 | 0 Body / 1 Mind / 2 Soul |
+| **Broadcast** | When you communicate, you may give 2 Favors to creatures trying to understand you, regardless of language.                                                                       | 0 Body / 2 Mind / 2 Soul |
+| **Polyglot**  | Before you roll Appeal, Speech, or Charm, you may choose to treat each 5 rolled as a 6, when calculating critical success. But each 2 rolled counts as a 1 for critical failures | 0 Body / 2 Mind / 3 Soul |

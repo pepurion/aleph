@@ -3,6 +3,22 @@
 ---
 
 ---
+## v0.3-pre5
+*5th October 2025*
+
+I forgot that it's a sci-fi game... so now you can go to space
+My steam took a beating with this one, since this time I needed to look through more systems and actually do adjusting to things, but it's not over yet, I promise
+
+- Added [[Starfaring]] tree
+- Added [[Spacecraft Operation]]
+- New component
+- Updated stuff across the board
+- Renamed some more stuff
+- Removed [[Mission Log]], not related to system
+
+This one is inspired by **Traveller RPG** rules
+
+---
 ## v0.3-pre4
 *15th September 2025*
 

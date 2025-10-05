@@ -28,12 +28,12 @@ If you **traveled** at least 2 meters right before the leap, the distance is equ
 
 ---
 ## Stealth
-To make an action while remaining inconspicuous, you make a **Stunt check** against other creatures' **Awareness score**.
+To make an action while remaining inconspicuous, you make a **Poise check** against other creatures' **Perception score**.
 
 - Different situational factors may give you Favors or Disfavors
-- If the creature is **aware** of your presence, they instead make an opposing **Awareness check**, they also get a Favor and you get a Disfavor
+- If the creature is **aware** of your presence, they instead make an opposing **Perception check**, they also get a Favor and you get a Disfavor
 - If you are within creature's **line of sight**, you get 2 Disfavor
-- Creatures that are **gifted** in Awareness have their score doubled for this roll
+- Creatures that are **gifted** in Perception have their score doubled for this roll
 
 You may spend **double** amount of AP or RP on the action to gain a Favor.
 
@@ -41,7 +41,7 @@ You may spend **double** amount of AP or RP on the action to gain a Favor.
 ## Attacking
 
 ### Melee
-To make a melee attack you **do not** roll to hit. Instead, attack damage can be negated (refer to [[Encounter#Defending|Defending]]).
+To make a melee attack you **do not** roll to hit. Instead, attack damage can be negated (refer to [[Combat#Defending|Defending]]).
 
 Standard **unarmed** attack requires **2 AP**, and it's damage is **(1d8+Power)**.
 
@@ -101,13 +101,16 @@ To climb up an obstacle, you spend 3 AP and 4 Stamina.
 - Target's Attack, Block and Dodge actions require **twice** as much AP/RP, if targeted against creature scaling it.
 - The scaling creature's weight is applied to target
 
-While being scaled, the creature may spend 2 AP/RP and 2 Stamina to attempt the check **again**. The grappler looses 2 Stamina, if they oppose.
+While being scaled, the creature may spend 2 AP/RP and 2 Stamina to attempt the check **again**. The scaler looses 2 Stamina, if they oppose.
 
 ---
 ## Miscellaneous
 
 ### Deep Breath
-You may spend 1 AP to **regain** 1 Stamina.
+You may spend **1 AP** to regain **1 Stamina**.
 
 ### Stand Up
-You stand up using 1 AP.
+You stand up using **1 AP**.
+
+### Martial Check
+You spend **3 AP** to make an **Analysis check**.

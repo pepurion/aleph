@@ -17,11 +17,11 @@ Lasts for 6-8 hours. **Fully restore SHP and Stamina, and remove one Fatigue poi
 
 ### Deafened
 - Fail all hearing checks
-- Disfavor on Awareness checks
+- Disfavor on Perception checks
 
 ### Blinded
 - Fail all sight checks
-- 2 Disfavors on Awareness checks
+- 2 Disfavors on Perception checks
 - Block and Dodge ratings are halved down
 
 ### Paralysis
@@ -31,19 +31,34 @@ Lasts for 6-8 hours. **Fully restore SHP and Stamina, and remove one Fatigue poi
 ### Dazed
 - AP and RP are halved down
 
+### Starvation
++ Disfavor on all checks
+
 ---
 ## Environmental Harm
 ### Suffocation
 A creature can **hold their breath** for the number of turns equal to their Fortitude score.
 For every turn suffocating they **lose 1 Stamina**.
 
-### Stamina Overpay
-When making an action that requires more Stamina than the creature has currently, the rest of the cost is payed with **DHP**.
-
-Additionally, on 0 Stamina the creature is exhausted and falls **unconscious** until Stamina is regained or Short Rest is done.
+### Stamina Exhaustion
+When making an action that requires more Stamina than the creature has currently, the rest of the cost is payed with **DHP**. Additionally, on 0 Stamina the creature is exhausted and falls **unconscious** until Stamina is regained or Short Rest is done.
 
 ### Kinetic Force
-When hitting a surface after a fall/flight, the creature is dealt **1d10** damage for every **10m/s** it traveled. The damage is dealt to DHP **directly**.
+When hitting a surface after a fall/flight, the creature is dealt **1d10** damage for every **10m/s** it traveled. The damage is dealt to **DHP directly**.
+
+### Different Gravity
+While in an environment with a drastically different gravity from one you are accustomed to, you get a **Disfavor** and additionally spend **1 Stamina** on all physical checks and attacks. Also your Travel speed is halved up. You may **acclimatize** to the gravity, if sufficient time has passed. Average time for acclimatization is around a few weeks.
+
+### Zero Gravity
+In addition to effects of **Different Gravity**, you must consider your **momentum**. Changing moving direction unassisted requires a **surface** and **1 AP**.
+
+Melee or ranged attacks with recoil requires a **Poise check**, with difficulty being the damage you rolled halved down. If you fail it or any other physical check, you may start to move/spin **uncontrollably**. To negate it, you spend **3 AP** and do an **Agility check**, with difficulty being the same as the roll, that started it.
+
+### Toxic Atmosphere
+The air is not fit for breathing, but otherwise safe. A safe oxygen supply is required, without it you lose **1d4 DHP per round**.
+
+### Corrosive Atmosphere
+The air is destructive and dangerous. Requires specialized equipment and armor. Suffer **1 to 10 damage per round**, depending on level of corrosiveness. 
 
 ---
 ## Fatigue

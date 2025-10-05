@@ -16,7 +16,7 @@ The Warfare tree is a path toward combat and finesse in conflict. Talents from t
 | **Swift Strike**   | When you make a melee weapon attack, you may spend 3 Stamina to reduce the number of AP required by 1 up to twice. Minimum cost of 4 AP.         | 1 Body / 0 Mind / 0 Soul |
 | **Hasty Attacks**  | When you make a melee weapon attack, you may spend 5 Stamina to reduce the number of AP required by 1 up to twice. Minimum cost of 2 AP.         | 2 Body / 0 Mind / 0 Soul |
 | **Recovery**       | You may spend 2 AP and up to 20 SHP to regain an equal amount of Stamina.                                                                        | 4 Body / 0 Mind / 0 Soul |
-| **Terminal Drive** | When you make a melee weapon attack, you may spend 5 Stamina to reduce the number of AP required by 7 any number of times. Minimum cost of 1 AP. | 6 Body / 0 Mind / 0 Soul |
+| **Terminal Drive** | When you make a melee weapon attack, you may spend 7 Stamina to reduce the number of AP required by 1 any number of times. Minimum cost of 1 AP. | 6 Body / 0 Mind / 0 Soul |
 | **Warmonger**      | When a creature you're aware of makes an attack, you may spend 8 Stamina to make an attack using RP as if they were AP.                          | 8 Body / 0 Mind / 0 Soul |
 
 ---

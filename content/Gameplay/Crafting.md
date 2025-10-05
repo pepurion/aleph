@@ -41,16 +41,16 @@ When crafting a component, a Control check is made. Upon fail, all components ar
 
 - **Enhanced** Material
 	- 2 Common Material
-	- Diff 12 Control check
+	- DC 12 Control check
 - **Advanced** Material
 	- 2 Enhanced Material
-	- Diff 18 Control check
+	- DC 18 Control check
 - **Elite** Material
 	- 2 Advanced Material
-	- Diff 24 Control check
+	- DC 24 Control check
 - **Prime** Material
 	- 2 Elite Material
-	- Diff 30 Control check
+	- DC 30 Control check
 
 ### Refinement Components
 **RC** are small stuff that makes an item lighter, smaller or more efficient. This might be precious metals, alchemical substrates or even nanotechnology.
@@ -62,19 +62,19 @@ When crafting a component, a Control check is made. Upon fail, all components ar
 
 - **Enhanced** Refinement
 	- 1 Common Material, 1 Enhanced Material
-	- Diff 14 Control check
+	- DC 14 Control check
 - **Advanced** Refinement
 	- 1 Enhanced Material, 1 Advanced Material
-	- Diff 20 Control check
+	- DC 20 Control check
 - **Elite** Refinement
 	- 1 Advanced Material, 1 Elite Material
-	- Diff 26 Control check
+	- DC 26 Control check
 - **Prime** Refinement
 	- 1 Elite Material, 1 Prime Material
-	- Diff 32 Control check
+	- DC 32 Control check
 
 ### Power Components
-**PC** are the rarest form of component and are not seen in many items, especially in more common ones. They produce or store usable energy to power larger systems. This might be bio- or liquid fuel, power cells, coils, or combustion chambers.
+**PC** are the rarest form of crafting component and are not seen in many items, especially in more common ones. They produce or store usable energy to power larger systems. This might be bio- or liquid fuel, power cells, coils, or combustion chambers.
 
 #### Crafting
 Power components are manufactured using other components of the same rarity.
@@ -83,24 +83,39 @@ When crafting a component, a Control check is made. Upon fail, all components ar
 
 - **Common** Power
 	- 1 Common Material, 1 Common Refinement
-	- Diff 11 Control check
+	- DC 11 Control check
 - **Enhanced** Power
 	- 1 Enhanced Material, 1 Enhanced Refinement
-	- Diff 17 Control check
+	- DC 17 Control check
 - **Advanced** Power
 	- 1 Advanced Material, 1 Advanced Refinement
-	- Diff 23 Control check
+	- DC 23 Control check
 - **Elite** Power
 	- 1 Elite Material, 1 Elite Refinement
-	- Diff 29 Control check
+	- DC 29 Control check
 - **Prime** Power
 	- 1 Prime Material, 1 Prime Refinement
-	- Diff 35 Control check
+	- DC 35 Control check
 
-### Foraging
+### Ship Components
+**SC** are different from other ones, since they cannot be used for normal crafting. Instead they are used as spare parts for ship construction and repairs.
+
+### Crafting
+Ship components are composed of a large amount of crafting components. For crafting, all SC are considered **Items** of **Advanced** rarity.
+
+One SC needs 30 units. Any type and rarity of components can be combined and used in crafting, however higher rarity ones give more units. Any unit overflow is lost.
+
+- **Common** - 1 unit.
+- **Enhanced** - 2 units.
+- **Advanced** - 3 units.
+- **Elite** - 4 units.
+- **Prime** - 5 units.
+
+---
+## Foraging
 This is the act of spending a long period of time searching for something specific. The searches are thorough and include looking above and beneath the surface when available.
 
-Whenever you wish to forage for components, you choose how much time you wish to spend and make a (usually) **Awareness** check. You may spend from 1 to 24 hours, the more time you spend, the higher chance you have. The area should theoretically contain the resource you are looking for, for a successful search.
+Whenever you wish to forage for components, you choose how much time you wish to spend and make a (usually) **Perception** check. You may spend from 1 to 24 hours, the more time you spend, the higher chance you have. The area should theoretically contain the resource you are looking for, for a successful search.
 
 Upon a **successful** check, you get a random amount of the resource. If you roll a value two times the required difficulty, the time you spend is halved. On **fail**, you spend the full time, but no resource is found. 
 

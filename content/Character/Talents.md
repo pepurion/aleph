@@ -21,6 +21,10 @@ The Innovation tree is purely in the heart of **craft**. One cannot craft powerf
 [[Influence|Open tree]]
 Social conducts and misconducts can both be utilized using the Influence tree. A practical usage of **words** can aid your allies and goad your opponents, perhaps even **convince** them all that you're somebody else entirely.
 
+### Starfaring
+[[Starfaring|Open tree]]
+The Starfaring tree encompasses all you need for comfortable and safe **space travel**. Whether **inside** or **outside** a vessel, it will assist in your coordination and survival in the environments of outer space.
+
 ### Prowess
 [[Prowess|Open tree]]
 The Prowess tree is unique from any other. **Once one completes a branch, they may revisit it from the start.** This tree is small and subtle, but offers infinite talents and usage of levels. Though it is slow, it is extremely powerful in the way of potential.

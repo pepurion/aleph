@@ -1,5 +1,5 @@
 ---
-title: Welcome to Aleph v0.3-pre4
+title: Welcome to Aleph v0.3-pre5
 ---
 Powered mostly by **Utopia TTRPG**.
 
@@ -14,16 +14,16 @@ Here you can find (almost) everything you need to know to play **Aleph**.
 
 ### Gameplay
 [[Rolling Dice]]
-[[Encounter]]
+[[Combat]]
 [[Miscellaneous]]
 
 ### Special Systems
 [[Crafting]]
+[[Spacecraft Operation]]
 
 ---
 ### Archive
 [[Dictionary]]
-[[Mission Log]]
 
 ---
 

@@ -21,12 +21,12 @@ Armor and/or equipment worn on **Chest / Back / Head / Feet** must be made **cus
 ## Talent Tree
 Draxi are **resilient** and are able to **fly**. They are excellent predators, being able to survive in harsh environment. 
 
-| Name                    | Effect                                                                                                                                                        | Cost                     |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| **Sharp Scent**         | You gain a favor on checks made to forage and to find natural resources.                                                                                      | 0 Body / 1 Mind / 0 Soul |
-| **Thick Skin**          | Your Physical Resistance increases by 4.                                                                                                                      | 2 Body / 0 Mind / 0 Soul |
-| **Expertise**           | Whenever you make a check on a gifted Skill, you may spend 5 Stamina to gain a Favor once.                                                                    | 2 Body / 1 Mind / 0 Soul |
-| **Natural Survivalist** | When you harvest components from a creature or foraging, you may make a Awareness check once. If it's 11 or higher, you gain an additional similar component. | 1 Body / 2 Mind / 0 Soul |
+| Name                    | Effect                                                                                                                                                         | Cost                     |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| **Sharp Scent**         | You gain a favor on checks made to forage and to find natural resources.                                                                                       | 0 Body / 1 Mind / 0 Soul |
+| **Thick Skin**          | Your Physical Resistance increases by 4.                                                                                                                       | 2 Body / 0 Mind / 0 Soul |
+| **Expertise**           | Whenever you make a check on a gifted Skill, you may spend 5 Stamina to gain a Favor once.                                                                     | 2 Body / 1 Mind / 0 Soul |
+| **Natural Survivalist** | When you harvest components from a creature or foraging, you may make a Perception check once. If it's 11 or higher, you gain an additional similar component. | 1 Body / 2 Mind / 0 Soul |
 
 --- 
 

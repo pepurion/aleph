@@ -14,14 +14,14 @@ The Innovation tree is purely in the heart of **craft**. One cannot craft powerf
 | ------------- | ----------------------------- | ------------------------ |
 | **Tinkerer**  | You can craft Common items.   | 0 Body / 1 Mind / 0 Soul |
 | **Craftsman** | You can craft Enhanced items. | 0 Body / 3 Mind / 0 Soul |
-| **Maker**     | You can craft Advanced items. | 0 Body / 5 Mind / 0 Soul |
+| **Engineer**  | You can craft Advanced items. | 0 Body / 5 Mind / 0 Soul |
 | **Visionary** | You can craft Elite items.    | 0 Body / 7 Mind / 0 Soul |
 | **Creator**   | You can craft Prime items.    | 0 Body / 9 Mind / 0 Soul |
 
 ---
 
-| Name             | Effect                                                                                                                                                                                                                                             | Cost                     |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| **Algorithmic**  | When you make a Power or Dexterity check, you may spend 4 Stamina to make a Control check instead.                                                                                                                                                 | 0 Body / 2 Mind / 0 Soul |
-| **Mnemonic**     | You have a number of Recollection Charges equal to your Memory score. When you make a check, that you have already made since your last Long Rest, you may spend the Charge to make a Memory check instead. All Charges are regained on Long Rest. | 2 Body / 3 Mind / 0 Soul |
-| **Intellectual** | Whenever another creature within 5m makes a check, and you are aware of each other, you may spend 1 RP once to add your Intellect modifier to their roll.                                                                                          | 3 Body / 4 Mind / 0 Soul |
+| Name             | Effect                                                                                                                                                                                                                                                 | Cost                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| **Algorithmic**  | When you make a Power or Dexterity check, you may spend 4 Stamina to make a Control check instead.                                                                                                                                                     | 0 Body / 2 Mind / 0 Soul |
+| **Mnemonic**     | You have a number of Recollection Charges equal to your Analysis score. When you make a check, that you have already made since your last Long Rest, you may spend the Charge to make a Analysis check instead. All Charges are regained on Long Rest. | 2 Body / 3 Mind / 0 Soul |
+| **Intellectual** | Whenever another creature within 5m makes a check, and you are aware of each other, you may spend 1 RP once to add your Intellect modifier to their roll.                                                                                              | 3 Body / 4 Mind / 0 Soul |

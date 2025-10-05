@@ -24,7 +24,7 @@ If you roll **1** on **all** of your dice, it is a **Critical Failure**. In that
 
 If someone is helping you or is against your action, they may use some amount of Reaction Points to aid or contest your check.
 
-When getting an **assist**, you gain a bonus to your stat check depending on nature of the action. More info can be found in the respective articles for certain [[Encounter|actions]], but if nothing is specified, then generally:
+When getting an **assist**, you gain a bonus to your stat check depending on nature of the action. More info can be found in the respective articles for certain [[Combat|actions]], but if nothing is specified, then generally:
 
 - For **physical actions** the assisting creature makes the same check and their value is added to yours
 - For **non-physical actions** you get a Favor and add the assisting creature's modifier to your roll (minimum of 0)

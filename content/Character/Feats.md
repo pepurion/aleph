@@ -20,7 +20,7 @@ These are modest, offering abilities with minimal requirements.
 | **Hunter's Mark**         | Dexterity score of 7 or higher            | When you roll accuracy using a ranged weapon, you may make an Agility check rather that Dexterity.                                                                                                             |
 | **Dual Wielder**          | Strength and Agility score of 7 or higher | When you make an attack with multiple weapons, you may spend 1 AP and 8 Stamina to have each weapon deal full damage.                                                                                          |
 | **Advanced Construction** | Have [[Innovation\|Craftsman]]            | When you attack with a weapon you crafted, your modifier on damage is doubled.                                                                                                                                 |
-| **Lo-fi Crafter**         | Have [[Innovation\|Maker]]                | You regain all SHP and Stamina after crafting an item of Common or higher rarity. You may do so once per Long Rest.                                                                                            |
+| **Lo-fi Crafter**         | Have [[Innovation\|Engineer]]             | You regain all SHP and Stamina after crafting an item of Common or higher rarity. You may do so once per Long Rest.                                                                                            |
 
 ---
 ## Species Feats

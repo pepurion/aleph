@@ -4,8 +4,9 @@ Descriptions of all important attributes within your character file, in order of
 ## Level
 Leveling is **unlimited** (technically). Experience required to get the next level is equal to (*current level * 100*).
 
-Every level you get 1 **SP** (Skill point) and 1 **TP** (Talent point).
-Every 10th level you get a **Feat**.
+Every level you get 1 **SP** (Skill point) and 1 **TP** (Talent point). Every 10th level you get a **Feat**.
+
+**Default** characters start at level 10 with 15 SP, 10 TP and a Feat.
 
 ---
 ## Species
@@ -69,8 +70,7 @@ Each stat is represented by either **Body, Mind or Soul**.
 - Mind - Intellect and Will
 - Soul - Display and Charm
 
-You spend 1 SP (Skill point) to up a **skill** score by one. Skills are limited by the value of it's connected Talent Stat. 
-If you are **gifted** in a skill, it's maximum score is doubled and it's modifier cannot be negative.
+You spend 1 SP (Skill point) to increase a **skill** score by one. Skills are limited by the value of it's connected Talent Stat. If you are **gifted** in a skill, it's maximum score is doubled and it's modifier cannot be negative.
 
 **Stat's** score is based on sum of it's skills' scores.
 
@@ -97,3 +97,11 @@ Maximum **Stamina** is equal to (*Mind * Endurance + Level*)
 [[Feats|Available Feats]]
 
 These are cost-free expertise that offer **supplementary** abilities. Often these are passive, but there are active ones. Many Feats can have requirements you must meet in order to take them.
+
+---
+## Inventory and Equipment
+You have a limited amount of inventory space based on **slots**. For more info - [[Miscellaneous#Carry Capacity|Carry Capacity]].
+
+There are 4 **armor** equipment slots - Head, Chest, Hands, Feet. Armor increases your resistances and may have other effects.
+
+**Augments** are modifications to your own body that may give you some advantage.

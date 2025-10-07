@@ -3,6 +3,12 @@
 ---
 
 ---
+## v0.3-pre6
+*7th October 2025*
+
+Hotfix, I forgot some things, don't worry about it
+
+---
 ## v0.3-pre5
 *5th October 2025*
 
@@ -17,7 +23,6 @@ My steam took a beating with this one, since this time I needed to look through 
 - Removed [[Mission Log]], not related to system
 
 This one is inspired by **Traveller RPG** rules
-
 ---
 ## v0.3-pre4
 *15th September 2025*

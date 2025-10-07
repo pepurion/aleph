@@ -105,6 +105,8 @@ While being scaled, the creature may spend 2 AP/RP and 2 Stamina to attempt the 
 
 ---
 ## Miscellaneous
+### Equipping a Weapon
+Readying up a weapon takes as much **AP** as it's **attack**. Safely putting it away is the same.
 
 ### Deep Breath
 You may spend **1 AP** to regain **1 Stamina**.

@@ -1,4 +1,4 @@
-Click [HERE](https://cdn.discordapp.com/attachments/1138079205687574548/1424390092377821245/Aleph_v0.3_Char.txt?ex=68e3c625&is=68e274a5&hm=ebe6fd6442d78195d78f61ad32c0ecfb18f88b567d476f998b625c2b1f2f8b12&) to download a character .txt file.
+Click [HERE (v3)](https://cdn.discordapp.com/attachments/1138079205687574548/1425040339030507530/Aleph_v0.3_Char.txt?ex=68e623bc&is=68e4d23c&hm=e9570eabc63bd4a2f246036f2f94bed594da56d8ce2744f1b1f2b72e9302b564&) to download a character .txt file.
 
 *can't be bothered to write everything down, just ask me*
 *but in short...*

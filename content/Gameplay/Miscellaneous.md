@@ -110,7 +110,7 @@ Creature movement
 ### Carry Capacity
 Every creature has a **slot** limit based on their **Strength** score multiplied by their size. Small (x2), Medium (x5), Large (x15), etc.
 
-Currency and augments do not use slots.
+Many items may need more than 1 slot to carry them. Currency and augments do not use slots.
 
 ### Encumberment
 While carrying more weight than you are able to, you get **Fatigue** point until relieved of the additional weight. They also can only use Land Travel. You cannot physically carry more than **double** your Carry Capacity.

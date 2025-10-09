@@ -6,7 +6,6 @@ Powered mostly by **Utopia TTRPG**.
 Here you can find (almost) everything you need to know to play **Aleph**.
 
 ### About your Character
-[[Creating a Character]]
 [[Character Data]]
 [[Species]]
 [[Talents]]
@@ -23,6 +22,7 @@ Here you can find (almost) everything you need to know to play **Aleph**.
 
 ---
 ### Archive
+[[Creating a Character]]
 [[Dictionary]]
 
 ---

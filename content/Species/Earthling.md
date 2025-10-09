@@ -20,8 +20,8 @@ Earthlings are fluid and versatile, with no single strong characteristic. They h
 | Name                  | Effect                                                                                                               | Cost                     |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | **Adaptable Defense** | Each of your Resistances increase by 1.                                                                              | 1 Body / 0 Mind / 1 Soul |
-| **Quick Footing**     | Your Dodge Rating increases by 1d12.                                                                                 | 1 Body / 1 Mind / 0 Soul |
-| **Strong Defense**    | Your Block Rating increases by 1d4.                                                                                  | 1 Body / 0 Mind / 1 Soul |
+| **Quick Footing**     | Your Dodge Rating increases by 1 die.                                                                                | 1 Body / 1 Mind / 0 Soul |
+| **Strong Defense**    | Your Block Rating increases by 1 die.                                                                                | 1 Body / 0 Mind / 1 Soul |
 | **Physical Combat**   | When you make a melee attack, you may spend an additional AP up to 3 times to deal an additional 2d8 Physical damage | 1 Body / 1 Mind / 0 Soul |
 
 --- 

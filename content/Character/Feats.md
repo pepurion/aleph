@@ -1,4 +1,6 @@
-Feats are expertise that offer supplementary abilities. Often these are passive, but there are active ones. Many Feats can have requirements you must meet in order to take them.
+Feats are expertise that offer supplementary abilities. Often these are passive, but there are active ones. Many Feats have requirements you must meet in order to take them.
+
+The list will be expanded as the time passes.
 
 ---
 ## General Feats

@@ -1,4 +1,4 @@
-Click [HERE (v3)](https://cdn.discordapp.com/attachments/1138079205687574548/1425040339030507530/Aleph_v0.3_Char.txt?ex=68e623bc&is=68e4d23c&hm=e9570eabc63bd4a2f246036f2f94bed594da56d8ce2744f1b1f2b72e9302b564&) to download a character .txt file.
+Click [HERE (v3)](https://drive.google.com/file/d/1uk2aTsQsNs2rA6txuEZIFr0UnW1msQ7K/view?usp=sharing) to download a character .txt file.
 
 *can't be bothered to write everything down, just ask me*
 *but in short...*

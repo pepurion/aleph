@@ -1,7 +1,7 @@
 ---
-title: Welcome to Aleph v0.3-pre6
+title: Welcome to Aleph v0.3-pre7
 ---
-Powered mostly by **Utopia TTRPG**.
+Based on **Utopia TTRPG**.
 
 Here you can find (almost) everything you need to know to play **Aleph**.
 

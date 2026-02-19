@@ -3,14 +3,25 @@
 ---
 
 ---
+## v0.3-pre7
+*19 Feb 2026*
+
+TEST VERSION
+Got a new setup, now testing if the upload thing still works
+Edit: second try, first time everything imploded lol
+
+- Reorganized folders to mirror the home page
+- A few minor adjustments
+
+---
 ## v0.3-pre6
-*7th October 2025*
+*7 Oct 2025*
 
 Hotfix, I forgot some things, don't worry about it
 
 ---
 ## v0.3-pre5
-*5th October 2025*
+*5 Oct 2025*
 
 I forgot that it's a sci-fi game... so now you can go to space
 My steam took a beating with this one, since this time I needed to look through more systems and actually do adjusting to things, but it's not over yet, I promise
@@ -26,7 +37,7 @@ This one is inspired by **Traveller RPG** rules
 
 ---
 ## v0.3-pre4
-*15th September 2025*
+*15 Sep 2025*
 
 I think it's playable
 
@@ -41,7 +52,7 @@ No idea why I'm making these detailed patch notes lol, it just feels right
 
 ---
 ## v0.3-pre3
-*13th September 2025*
+*13 Sep 2025*
 
 The first actual downtime activity
 
@@ -54,13 +65,13 @@ The first actual downtime activity
 
 ---
 ## v0.3-pre2
-*9th September 2025*
+*9 Sep 2025*
 
 fucking [[Talents|TREEEEESSSS]]
 
 ---
 ## v0.3-pre
-*3rd September 2025*
+*3 Sep 2025*
 
 I decided not to make my own system and settled with an already existing one, which is **Utopia TTRPG**. One reason is that the previous iteration wasn't awful, but also wasn't good. And I don't wanna get into game design that deep, cause it's hard.
 
@@ -73,7 +84,7 @@ Regarding the system itself, some terms from Utopia have been adapted to our com
 ---
 
 ## v0.2-pre
-*9th January 2025*
+*9 Jan 2025*
 
 The main system stayed mostly intact, but suffered big changes in character creating process.
 
@@ -84,7 +95,7 @@ Most changes were influenced by different TTRPG systems. You may say that at thi
 ---
 
 ## v0.1
-*8th August 2023*
+*8 Aug 2023*
 
 The first version used during the Prologue. Based mostly on **Mothership 1e** (M1e) with some modifications mainly to character and class stats and battle systems. Here's the big stuff:
 

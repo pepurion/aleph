@@ -43,12 +43,12 @@ You may spend **double** amount of AP or RP on the action to gain a Favor.
 ### Melee
 To make a melee attack you **do not** roll to hit. Instead, attack damage can be negated (refer to [[Combat#Defending|Defending]]).
 
-Standard **unarmed** attack requires **2 AP**, and it's damage is **(1d8+Power)**.
+Standard **unarmed** attack requires **2 AP**, and it's damage is **(1d6+Power)**.
 
 In case of melee **weapons**, the number of AP and damage are determined by the weapon itself.
 
 While having **multiple** weapons equipped, you may attack with them **simultaneously**. Number of AP required is determined by the weapon with the **highest AP** cost. 
-For damage dealt, **rolled value** is reduced by **half** rounded down, but **modifiers** are added **normally**.
+For damage dealt, **rolled value** is halved up, but **modifiers** are added **normally**.
 
 ### Ranged
 To hit, you make a **Dexterity check** with the difficulty being the **distance** between you and your target in meters.
@@ -104,7 +104,7 @@ To climb up an obstacle, you spend 3 AP and 4 Stamina.
 While being scaled, the creature may spend 2 AP/RP and 2 Stamina to attempt the check **again**. The scaler looses 2 Stamina, if they oppose.
 
 ---
-## Miscellaneous
+## Miscellaneous Actions
 ### Equipping a Weapon
 Readying up a weapon takes as much **AP** as it's **attack**. Safely putting it away is the same.
 
@@ -112,7 +112,7 @@ Readying up a weapon takes as much **AP** as it's **attack**. Safely putting it 
 You may spend **1 AP** to regain **1 Stamina**.
 
 ### Stand Up
-You stand up using **1 AP**.
+You stand up from sitting or being prone by using **1 AP**.
 
 ### Martial Check
 You spend **3 AP** to make an **Analysis check**.

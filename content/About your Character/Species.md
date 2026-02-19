@@ -2,7 +2,7 @@
 [[Earthling|Open Species]]
 
 ![600](https://w0.peakpx.com/wallpaper/716/260/HD-wallpaper-the-united-empire-endless-space-2-endless-space-2-2017-games-games-artstation.jpg)
-*Damn he's grumpy*
+*Damn he's seen things*
 
 Earthlings are the descendants from the long-lost world of Earth. Species of baseline humanoids are renowned for their resilience and drive for improvement. They have spread all across the galaxy, dominating and absorbing species and technology from every discovered corner of the observable universe. Their culture is so extensive and wide-spread, their individual identity may vary wildly between sectors.
 

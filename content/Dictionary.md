@@ -1,5 +1,6 @@
 **Aleph** - game
 **AlephDB** - Discord server
+**Aleph-Zero** - universe
 
 **Action point** - AP - action on your turn
 **Reaction point** -  RP - action outside of your turn

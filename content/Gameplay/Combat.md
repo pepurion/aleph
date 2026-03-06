@@ -7,15 +7,15 @@ If you roll the same value as an another player, you may choose who acts first f
 ## Actions
 Every turn you have **6 Action Points**. Each **AP** in the encounter generally corresponds to 1 second, but might be varied based on the situation. These are the currency for your actions in the encounter, where some actions may require more than 1 AP.
 
-Additionally for **every** other creature in the encounter you also get **2 Reaction Points** on their turn. The number of **RP** resets at the beginning of every other creature's turn.
+Additionally for **every** other participant in the encounter you also get **2 Reaction Points** during their turn. The number of **RP** resets at the beginning of next participant's turn.
 
 Different actions require either AP or RP. If you need to use one as another, they can be interchanged:
 
-- 1 Action Point may be considered as 1 Reaction Point
-- 2 Reaction Points may be considered as 1 Action Point
+- **1 Action** Point may be considered as **1 Reaction** Point
+- **2 Reaction** Points may be considered as **1 Action** Point
 
 ### Hold Action
-On your turn you may convert 2 AP into 1 RP for later use. These floating RP can be used on any **other creature's turn** once additionally to the already existing ones. If not used, they are depleted at the start of your next turn.
+On your turn you may convert **2 AP into 1 RP** for later use. These floating RP can be used on **any** other participant's turn **once** additionally to the already existing ones. If not used, they are depleted at the start of your next turn.
 
 ---
 ## Movement
@@ -59,7 +59,7 @@ Ranged weapons have range metrics for **close and far range**.
 - If your target is within **far** range, you gain **Disfavor**
 - Otherwise the hit is impossible
 
-You can use 1 AP to **Aim** and gain **Favor** on your next ranged attack. Favors gained by this mean are **stackable**, but if you do any action other than ranged attack, the stacks are lost.
+You can use 1 AP to **Aim** and gain **Favor** on your next ranged attack. Favors gained by this mean are **stackable**. If you do any action other than ranged attack, or the target moved at least 1 meter out of your line of sight, the stacks are **lost**.
 
 ---
 ## Defending
@@ -115,4 +115,4 @@ You may spend **1 AP** to regain **1 Stamina**.
 You stand up from sitting or being prone by using **1 AP**.
 
 ### Martial Check
-You spend **3 AP** to make an **Analysis check**.
+You spend **3 AP** to make an **Analysis check**. You will get a hint about your opponent or the environment based on the check. 

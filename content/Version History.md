@@ -12,6 +12,7 @@ Edit: second try, first time everything imploded lol
 
 - Reorganized folders to mirror the home page
 - A few minor adjustments
+- Tried fixing Species folder
 
 ---
 ## v0.3-pre6

@@ -82,14 +82,17 @@ As active resources, a character has Stamina and 2 types of HP.
 
 ### Surface HP
 SHP is the first HP bar. It can heal by itself while resting.
+
 Maximum **SHP** is equal to (*Body * Constitution + Level*)
 
 ### Deep HP
 DHP is the second (and last) HP bar. It cannot regenerate naturally and requires medical attention.
+
 Maximum **DHP** is equal to (*Soul * Effervescence + Level*)
 
 ### Stamina
 It is used for certain actions in combat.
+
 Maximum **Stamina** is equal to (*Mind * Endurance + Level*)
 
 ---

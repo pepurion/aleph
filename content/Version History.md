@@ -53,7 +53,7 @@ This one is inspired by **Traveller RPG** rules
 I think it's playable
 
 - Added [[Feats]]
-- Reworked [[Species List]] page
+- Reworked [[Species]] page
 - Touched on [[Creating a Character]]
 	- Added a link to char.txt, maybe we'll upgrade someday
 - Renamed some stuff
@@ -69,7 +69,7 @@ The first actual downtime activity
 
 - Added [[Crafting]]
 - Added [[Mission Log]]
-- Added some [[Species List]]
+- Added some [[Species]]
 - Adjusted wording clarity in [[Character Data]]
 - Removed unused folder (externally)
 - Reorganized main page

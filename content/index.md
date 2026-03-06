@@ -7,7 +7,7 @@ Here you can find (almost) everything you need to know to play **Aleph**.
 
 ### About your Character
 [[Character Data]]
-[[Species List|Species]]
+[[Species]]
 [[Talents]]
 [[Feats]]
 

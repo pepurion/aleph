@@ -35,4 +35,4 @@ A humanoid reptilian species, Draxi are distinguished by their resilience and na
 
 ---
 ## Custom Species
-Although this is a list of available ready-made species at the moment, you can ask me to create a shiny new one. You can also assist in creating it, since I'm done with it after 2 custom ones already lol. That is one way of expanding this list.
+Although this is a list of available ready-made species at the moment, you can ask me to create a shiny new one. You can also help in creating it, since I'm done with it after 2 custom ones already lol. That is one way of expanding this list.

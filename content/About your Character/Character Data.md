@@ -10,7 +10,7 @@ Every level you get 1 **SP** (Skill point) and 1 **TP** (Talent point). Every 10
 
 ---
 ## Species
-[[Species List|Available species]]
+[[Species|Available species]]
  
 Defines what your character is among the different living beings. Defines your species-specific abilities and prowess.
 

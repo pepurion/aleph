@@ -1,5 +1,5 @@
 ---
-title: Welcome to Aleph v0.3-pre7
+title: Welcome to Aleph v0.3-pre8
 ---
 Based on **Utopia TTRPG**.
 
@@ -7,7 +7,7 @@ Here you can find (almost) everything you need to know to play **Aleph**.
 
 ### About your Character
 [[Character Data]]
-[[Species]]
+[[Species List|Species]]
 [[Talents]]
 [[Feats]]
 

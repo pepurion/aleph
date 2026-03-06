@@ -11,7 +11,6 @@ Synths are a rare specimen of humanoid constructs, designed to imitate other spe
 **3** Effervescence
 
 You are gifted in **Portrayal** and in **2** skills of your **choice**
-You know **Common** and any **1** language
 
 Choose a **Species**, your appearance and surface physical properties are equal to the Species. If they are able to fly, you spend thrice as much Stamina to fly.
 

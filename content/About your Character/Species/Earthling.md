@@ -11,7 +11,6 @@ Earthlings are the descendants from the long-lost world of "Earth". Species of b
 **3** Effervescence
 
 You are gifted in **2** skills of your **choice**
-You know **Common** and any **1** languages
 
 ---
 ## Talent Tree

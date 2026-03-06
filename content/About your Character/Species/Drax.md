@@ -11,7 +11,6 @@ A humanoid reptilian species, Draxi are distinguished by their resilience and na
 **3** Effervescence
 
 You are gifted in **Power** and **Fortitude**
-You know **Draconic** and any **1** language
 
 You have **Air travel** equal to half your Speed score. You spend 1 AP or RP to hold an airborne position. When you fly for any amount of time, it uses 4 Stamina per turn.
 

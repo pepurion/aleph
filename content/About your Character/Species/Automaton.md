@@ -11,7 +11,6 @@ Automaton is a blanket term, ranging from androids and service drones to forged 
 **3** Effervescence
 
 You are gifted in **2** skills of your **choice**
-You know any **1** language
 
 You are considered a **Construct** and do not need to breathe, eat, drink, or sleep. You cannot be inflicted with Fatigue or Unconsciousness. When resting, you are Paralyzed.
 

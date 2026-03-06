@@ -17,6 +17,9 @@ Different actions require either AP or RP. If you need to use one as another, th
 ### Hold Action
 On your turn you may convert **2 AP into 1 RP** for later use. These floating RP can be used on **any** other participant's turn **once** additionally to the already existing ones. If not used, they are depleted at the start of your next turn.
 
+### Time
+Your turn roughly corelates to **6 seconds**. 1 AP is 1 second normally, but if you have more or less, it is still 6 seconds total.
+
 ---
 ## Movement
 By using 1 Action Point you may travel the distance equal to your **travel speed**. Yes, you can turn.

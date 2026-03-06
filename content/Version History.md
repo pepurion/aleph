@@ -3,6 +3,17 @@
 ---
 
 ---
+## v0.3-pre8
+*6 Mar 2026*
+
+Polish and fixes
+
+- Lots of adjustments to clarify text and edge cases
+- Remade entries for [[Character Data]] and [[Creating a Character]]
+- Fixed Species folder
+- Dropped languages system in favor of roleplay
+
+---
 ## v0.3-pre7
 *19 Feb 2026*
 
@@ -12,7 +23,6 @@ Edit: second try, first time everything imploded lol
 
 - Reorganized folders to mirror the home page
 - A few minor adjustments
-- Tried fixing Species folder
 
 ---
 ## v0.3-pre6
@@ -43,7 +53,7 @@ This one is inspired by **Traveller RPG** rules
 I think it's playable
 
 - Added [[Feats]]
-- Reworked [[Species]] page
+- Reworked [[Species List]] page
 - Touched on [[Creating a Character]]
 	- Added a link to char.txt, maybe we'll upgrade someday
 - Renamed some stuff
@@ -59,7 +69,7 @@ The first actual downtime activity
 
 - Added [[Crafting]]
 - Added [[Mission Log]]
-- Added some [[Species]]
+- Added some [[Species List]]
 - Adjusted wording clarity in [[Character Data]]
 - Removed unused folder (externally)
 - Reorganized main page

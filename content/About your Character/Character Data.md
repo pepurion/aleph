@@ -96,7 +96,7 @@ On **0 Stamina** the character is exhausted and falls to the ground. They are un
 When making an action that requires more Stamina than the character has currently, the rest of the cost is paid with **DHP**.
 
 ### Calculation
-The maximum amount of each resource is based on your [[Character Data#Species|Species]] and [[Character Data#Stats and Skills|Skill]] distribution.
+The maximum amount of each resource is based on your [[Character Data#Species|Species]] and [[Character Data#Talents|Talent]] distribution.
 - **SHP** is equal to *(Body * Constitution + Level)*
 - **DHP** is equal to *(Soul * Effervescence + Level)*
 - **Stamina** is equal to *(Mind * Endurance + Level)*

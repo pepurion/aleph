@@ -7,7 +7,7 @@ A short halt to regain energy and fulfil your needs, be it eating, cleaning your
 
 ### Long Rest
 A long stop to recover from a hard day, you may sleep, reflect on your life choices and/or analyze all the data you've gathered. Lasts for 6-8 hours. 
-**Fully restore SHP and Stamina, and remove one Fatigue point.**
+**Remove one Fatigue point, and fully restore SHP and Stamina**
 
 ---
 ## Conditions
@@ -70,11 +70,11 @@ While not sustaining your bodily needs for extended periods of time, you gain Fa
 
 ---
 ## Travel
-Creature movement
+Creature movement. That's it.
 
-- Land Travel - equal to Speed score
-- Water Travel - equal to Speed score halved up
-- Air Travel - is 0 unless otherwise stated
+- **Land Travel** - equal to Speed score
+- **Water Travel** - equal to Speed score halved up
+- **Air Travel** - is 0 unless otherwise stated
 
 ---
 ## Dying *(Not Advised)*

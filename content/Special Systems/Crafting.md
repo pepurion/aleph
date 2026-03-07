@@ -31,10 +31,11 @@ Depending on the nature of components, they can be used in certain fields of cra
 
 Components may be crafted, harvested or foraged.
 
-### Material Components
+---
+## Material Components
 **MC** are used to build the **structural** parts of items. These are the most abundant form of components and the most common ones used in crafting. The more powerful they are, the more durable and versatile they are.
 
-#### Crafting
+### Crafting
 Material components can generally be crafted by combining lesser materials into more powerful alloy or composite.
 
 When crafting a component, a **Control check** is made. Upon fail, all components are destroyed. Crude materials cannot be used.
@@ -52,10 +53,11 @@ When crafting a component, a **Control check** is made. Upon fail, all component
 	- 2 Elite Material
 	- DC 30 Control check
 
-### Refinement Components
+---
+## Refinement Components
 **RC** are small stuff that makes an item lighter, smaller or more efficient. This might be precious metals, alchemical substrates or even nanotechnology.
 
-#### Crafting
+### Crafting
 Refinement components are created by engineering material components artificially.
 
 When crafting a component, a **Control check** is made. Upon fail, all components are destroyed. Crude materials cannot be used.
@@ -73,10 +75,11 @@ When crafting a component, a **Control check** is made. Upon fail, all component
 	- 1 Elite Material, 1 Prime Material
 	- DC 32 Control check
 
-### Power Components
+---
+## Power Components
 **PC** are the rarest form of crafting component and are not seen in many items, especially in more common ones. They produce or store usable energy to power larger systems. This might be bio- or liquid fuel, power cells, coils, or combustion chambers.
 
-#### Crafting
+### Crafting
 Power components are manufactured using other components of the same rarity.
 
 When crafting a component, a **Control check** is made. Upon fail, all components are destroyed. Crude materials cannot be used.
@@ -97,11 +100,12 @@ When crafting a component, a **Control check** is made. Upon fail, all component
 	- 1 Prime Material, 1 Prime Refinement
 	- DC 35 Control check
 
-### Ship Components
+---
+## Ship Components
 **SC** are different from other ones, since they cannot be used for normal crafting. Instead they are used as spare parts for ship construction and repairs.
 
 ### Crafting
-Ship components are composed of a large amount of crafting components. For crafting, all SC are considered **Items** of **Advanced** rarity.
+Ship components are composed of a large amount of crafting components. For crafting, all SC are considered **Items** of **Advanced** rarity (8 hours of crafting).
 
 One SC needs 30 units. Any type and rarity of components can be combined and used in crafting, however higher rarity ones give more units, also you need to use at least one component of each type. Any unit overflow is lost.
 
@@ -115,7 +119,7 @@ One SC needs 30 units. Any type and rarity of components can be combined and use
 ## Foraging
 This is the act of spending a long period of time searching for something specific. The searches are thorough and include looking above and beneath the surface when available.
 
-Whenever you wish to forage for components, you choose how much time you wish to spend and make a (usually) **Perception** check. You may spend from 1 to 24 hours, the more time you spend, the higher chance you have. You start with **one Disfavor** and every 4 hours you gain a **Favor**.
+Whenever you wish to forage for components, you choose how much time you wish to spend and make a (usually) **Perception** check. You may spend from 1 to 24 hours, the more time you spend, the higher chance you have. You start with **one Disfavor** and every 4 hours of search you gain a **Favor**. You have to decide how much time you will be spending **before** starting.
 
 The area should theoretically contain the resource you are looking for, for a successful search. Upon a **successful** check, you get a random amount of the resource. If you roll a value two times the required difficulty, the time you spend is halved. On **fail**, you spend the full time, but no resource is found. 
 
@@ -124,9 +128,9 @@ The area should theoretically contain the resource you are looking for, for a su
 Items have multiple categories you choose to craft. Every item has it's own specific modifier limits.
 
 - **Weapon**
-	- Fast
-	- Moderate
-	- Slow
+	- Fast (1 AP)
+	- Moderate (2 AP)
+	- Slow (3 AP or more)
 - **Armor**
 	- Shield
 	- Chest
@@ -137,7 +141,7 @@ Items have multiple categories you choose to craft. Every item has it's own spec
 	- Consumables
 	- Gadgets
 
-When crafting an item, you may choose features it will have and the DM (me) will tailor it based on your choice (I don't want to give you the full power and it's pretty complicated). 
+When crafting an item, you may choose features it will have and the Warden (me) will tailor it based on your choice (I don't want to give you the full power and it's pretty complicated). 
 
 The more complex and extensive item's design and functionality, the more components it requires to craft it. Rarity of an item depends on what rarity components were used in crafting. Higher rarity components can be used in place of lower ones, but not otherwise.
 

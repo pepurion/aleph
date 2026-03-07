@@ -81,7 +81,7 @@ Roll **modifiers** are calculated as *(score - 4)* for both.
 As active resources, a character has Stamina and 2 types of HP.
 
 ### Surface HP
-SHP is the first HP bar. It can heal by itself while resting.
+SHP is the first HP bar. Your natural armor before being injured. It can heal by itself while resting.
 
 ### Deep HP
 DHP is the second (and last) HP bar. It cannot regenerate naturally and requires medical attention.
@@ -91,7 +91,7 @@ Upon reaching **0 DHP** a character enters **coma** and is on death's door. For 
 ### Stamina
 It is used for certain actions in combat.
 
-On **0 Stamina** the character is exhausted and falls to the ground. They are unable to perform any action until the end of their next turn when they regain 1 Stamina.
+On **0 Stamina** the character is exhausted and falls to the ground. They are unable to perform any action until the start of their next turn when they regain 1 Stamina.
 
 When making an action that requires more Stamina than the character has currently, the rest of the cost is paid with **DHP**.
 

@@ -17,7 +17,7 @@ The Tactics tree offers evasive maneuvers and technical outfitting. The talents 
 
 ### Innovation
 [[Innovation|Open tree]]
-![128](https://www.dndbeyond.com/avatars/52994/753/638996058984161216.jpeg)
+![128](https://www.dropbox.com/scl/fi/c74vxds4xnax7ptm2mmpq/638996058984161216-1.jpg?rlkey=8c2zjxe6uge42u4ipa8c684th&e=1&st=szmvmm8s&dl=1)
 The Innovation tree is purely in the heart of **craft**. One cannot craft powerful artifacts without first accepting these talents. Innovation not only allows the creation of custom **equipment**, but also advanced usage for said items as well as others, including dismantling and **medical** aid.
 
 ### Influence

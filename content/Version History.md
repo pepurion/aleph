@@ -3,6 +3,15 @@
 ---
 
 ---
+## v0.3-pre9
+*8 Mar 2026*
+
+More QoL
+
+- Derived [[Status Effects]] from [[Miscellaneous]]
+- Added visuals to [[Talents]] *(don't tell WotC)*
+
+---
 ## v0.3-pre8
 *6 Mar 2026*
 

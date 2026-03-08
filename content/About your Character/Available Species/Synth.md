@@ -1,3 +1,4 @@
+![600](https://www.nag.co.za/wp-content/uploads/2015/11/Nick-the-Human.jpg)
 ## Description
 Synths are a rare specimen of humanoid constructs, designed to imitate other species with unsettling precision. Created by an unknown source, they genuinely believe themselves to be the beings they copy, even if with some mechanical augments. Their numbers are extremely limited, since their free existence is forbidden by Galactic Law.
 

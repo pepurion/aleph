@@ -1,3 +1,4 @@
+![600](https://preview.redd.it/the-dragonborn-race-from-dungeons-and-dragons-v0-uwg5n31zuf2c1.jpg?width=1080&crop=smart&auto=webp&s=6af72dbe90541ce1cde9cac9ae51684528259289)
 ## Description
 A humanoid reptilian species, Draxi are distinguished by their resilience and natural strength. Their origin takes place in a world, ruled by mighty dragon-like creatures. They are often viewed with respect or caution by others, regarding them as warriors or guardians. Their kin values honor and power within oneself.
 

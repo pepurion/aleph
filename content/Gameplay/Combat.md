@@ -36,7 +36,7 @@ To make an action while remaining inconspicuous, you make a **Poise check** agai
 - Different situational factors may give you Favors or Disfavors
 - If the creature is **aware** of your presence, they instead make an opposing **Perception check**
 - If you are within creature's **line of sight**, you get 2 Disfavor
-- Creatures that are **gifted** in Perception have their score doubled for this roll
+- Creatures that are **gifted** in Perception have their score doubled for the situation
 
 You may spend **double** amount of AP on the action to gain a Favor. You do it slower and more careful.
 
@@ -115,7 +115,7 @@ Readying up a weapon takes as much **AP** as it's **attack**. Safely putting it 
 You may spend **1 AP** to regain **1 Stamina**.
 
 ### Stand Up
-You stand up from sitting or being prone by using **1 AP**.
+You stand up from sitting or being [[Status Effects#Prone|prone]] by using **1 AP**.
 
 ### Martial Check
 You spend **3 AP** to make an **Analysis check**. You will get a hint about your opponent or the environment based on the check. 

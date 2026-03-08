@@ -1,3 +1,4 @@
+![600](https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/helldivers-2-automatons.jpg)
 ## Description
 Automaton is a blanket term, ranging from androids and service drones to forged machine-creatures. Many remain non-sentient, used as tools, servants, or guardians for the powerful higher class. But over time their design have grown increasingly complex, enough for sentience to emerge, prompting Galactic Law to impose strict limits to the level of intelligence any machine may have, forbidding them from surpassing human-level intelligence.
 

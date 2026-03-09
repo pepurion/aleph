@@ -38,7 +38,9 @@ To make an action while remaining inconspicuous, you make a **Poise check** agai
 - If you are within creature's **line of sight**, you get 2 Disfavor
 - Creatures that are **gifted** in Perception have their score doubled for the situation
 
-You may spend **double** amount of AP on the action to gain a Favor. You do it slower and more careful.
+You may spend **double** amount of **AP** on the action to gain a Favor. You do it slower and more careful.
+
+When **attacking** an unsuspecting opponent, they cannot react to your attack, and thus cannot use a defensive action.
 
 ---
 ## Attacking
@@ -46,7 +48,7 @@ You may spend **double** amount of AP on the action to gain a Favor. You do it s
 ### Melee
 To make a melee attack you **do not** roll to hit. Instead, attack damage can be negated (refer to [[Combat#Defending|Defending]]).
 
-Standard **unarmed** attack requires 2 AP, and it's damage is *(1d6 + [Power Mod])*.
+Standard **unarmed** attack requires 2 AP, and it's damage is *(1d8 + [Power Mod])*.
 
 In case of melee **weapons**, the number of AP and damage are determined by the weapon itself.
 

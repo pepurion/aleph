@@ -77,7 +77,7 @@ You roll your [[Character Data#Block Rating|Block Rating]] and add Resistance, *
 You roll your [[Character Data#Dodge Rating|Dodge Rating]] and add Resistance.
 
 - If the result is equal to or higher than the damage that would be dealt to your health, all damage is **prevented**
-- If the result is lower, damage is **fully** dealt
+- If the result is lower, damage is **fully** dealt to you
 
 ### Take Cover
 You use environment to hide behind an **obstacle** between you and the source of damage. Any Dodge or Block rolls used against the source of damage are **doubled**, until the positions are changed.

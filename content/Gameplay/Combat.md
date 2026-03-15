@@ -15,7 +15,7 @@ Different actions require either AP or RP. If you need to use one as another, th
 - **2 Reaction** Points may be considered as **1 Action** Point
 
 ### Hold Action
-On your turn you may convert **2 AP into 1 RP** for later use. These floating RP can be used on **any** other participant's turn **once** additionally to the already existing ones. If not used, they are depleted at the start of your next turn.
+On your turn you may convert **2 AP into 1 RP** for later use. You can hold action multiple times. These floating RP can be used on **any** other participant's turn **once** additionally to the already existing ones. If not used, they are depleted at the start of your next turn.
 
 ### Time
 Your turn roughly corelates to **6 seconds**. 1 AP is 1 second normally, but if you have more or less, it is still 6 seconds total.

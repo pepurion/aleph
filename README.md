@@ -1,3 +1,5 @@
-# Aleph
+# Aleph Wiki
 
-Built with Quartz 4
+Purely for the **Pages** functionaltiy for Aleph game system.
+
+Built on Quartz 4

@@ -1,6 +1,11 @@
 ---
 
 ---
+---
+## Custom Domain
+*7 Jul 2026*
+
+Welcome to the *professional* version of Aleph Wiki! Now you will not know it is a GitHub repo!
 
 ---
 ## v0.3-pre9
